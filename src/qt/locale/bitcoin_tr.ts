@@ -3,19 +3,19 @@
     <name>AboutDialog</name>
     <message>
         <location filename="../forms/aboutdialog.ui" line="+14"/>
-        <source>About TAKE</source>
-        <translation>TAKE Hakkında</translation>
+        <source>About TAKE1</source>
+        <translation>TAKE1 Hakkında</translation>
     </message>
     <message>
         <location line="+39"/>
-        <source>&lt;b&gt;TAKE&lt;/b&gt; version</source>
-        <translation>&lt;b&gt;TAKE&lt;/b&gt; versiyonu</translation>
+        <source>&lt;b&gt;TAKE1&lt;/b&gt; version</source>
+        <translation>&lt;b&gt;TAKE1&lt;/b&gt; versiyonu</translation>
     </message>
     <message>
         <location line="+41"/>
         <source>Copyright © 2009-2014 The Bitcoin developers
 Copyright © 2012-2014 The NovaCoin developers
-Copyright © 2014 The TAKE developers</source>
+Copyright © 2014 The TAKE1 developers</source>
         <translation type="unfinished"/>
     </message>
     <message>
@@ -63,8 +63,8 @@ This product includes software developed by the OpenSSL Project for use in the O
     </message>
     <message>
         <location line="-46"/>
-        <source>These are your TAKE addresses for receiving payments. You may want to give a different one to each sender so you can keep track of who is paying you.</source>
-        <translation>Bunlar, ödeme almak için TAKE adreslerinizdir. Her bir göndericiye farklı birini verebilir, böylece size kimin ödeme yaptığını takip edebilirsiniz.</translation>
+        <source>These are your TAKE1 addresses for receiving payments. You may want to give a different one to each sender so you can keep track of who is paying you.</source>
+        <translation>Bunlar, ödeme almak için TAKE1 adreslerinizdir. Her bir göndericiye farklı birini verebilir, böylece size kimin ödeme yaptığını takip edebilirsiniz.</translation>
     </message>
     <message>
         <location line="+60"/>
@@ -78,8 +78,8 @@ This product includes software developed by the OpenSSL Project for use in the O
     </message>
     <message>
         <location line="+11"/>
-        <source>Sign a message to prove you own a TAKE address</source>
-        <translation>Bir TAKE adresine sahip olduğunu ispatlamak için bir mesaj imzala</translation>
+        <source>Sign a message to prove you own a TAKE1 address</source>
+        <translation>Bir TAKE1 adresine sahip olduğunu ispatlamak için bir mesaj imzala</translation>
     </message>
     <message>
         <location line="+3"/>
@@ -93,8 +93,8 @@ This product includes software developed by the OpenSSL Project for use in the O
     </message>
     <message>
         <location line="-14"/>
-        <source>Verify a message to ensure it was signed with a specified TAKE address</source>
-        <translation>Mesajın, belirli bir TAKE adresiyle imzalandığından emin olmak için onu doğrula</translation>
+        <source>Verify a message to ensure it was signed with a specified TAKE1 address</source>
+        <translation>Mesajın, belirli bir TAKE1 adresiyle imzalandığından emin olmak için onu doğrula</translation>
     </message>
     <message>
         <location line="+3"/>
@@ -261,8 +261,8 @@ This product includes software developed by the OpenSSL Project for use in the O
     </message>
     <message>
         <location line="-58"/>
-        <source>TAKE will close now to finish the encryption process. Remember that encrypting your wallet cannot fully protect your coins from being stolen by malware infecting your computer.</source>
-        <translation>TAKE, şifreleme işlemini tamamlamak için şimdi kapatılacak. Cüzdanınızı şifrelemenin; coinlerinizin, bilgisayarınızı etkileyen zararlı yazılımlar tarafından çalınmasını bütünüyle engelleyemeyebileceğini unutmayınız.</translation>
+        <source>TAKE1 will close now to finish the encryption process. Remember that encrypting your wallet cannot fully protect your coins from being stolen by malware infecting your computer.</source>
+        <translation>TAKE1, şifreleme işlemini tamamlamak için şimdi kapatılacak. Cüzdanınızı şifrelemenin; coinlerinizin, bilgisayarınızı etkileyen zararlı yazılımlar tarafından çalınmasını bütünüyle engelleyemeyebileceğini unutmayınız.</translation>
     </message>
     <message>
         <location line="+13"/>
@@ -375,8 +375,8 @@ This product includes software developed by the OpenSSL Project for use in the O
     </message>
     <message>
         <location line="+4"/>
-        <source>Show information about TAKE</source>
-        <translation>TAKE hakkındaki bilgiyi göster</translation>
+        <source>Show information about TAKE1</source>
+        <translation>TAKE1 hakkındaki bilgiyi göster</translation>
     </message>
     <message>
         <location line="+2"/>
@@ -425,13 +425,13 @@ This product includes software developed by the OpenSSL Project for use in the O
     </message>
     <message>
         <location line="-62"/>
-        <source>Send coins to a TAKE address</source>
-        <translation>Bir TAKE adresine coin gönder</translation>
+        <source>Send coins to a TAKE1 address</source>
+        <translation>Bir TAKE1 adresine coin gönder</translation>
     </message>
     <message>
         <location line="+45"/>
-        <source>Modify configuration options for TAKE</source>
-        <translation>TAKE yapılandırma seçeneklerini değiştir</translation>
+        <source>Modify configuration options for TAKE1</source>
+        <translation>TAKE1 yapılandırma seçeneklerini değiştir</translation>
     </message>
     <message>
         <location line="+18"/>
@@ -470,8 +470,8 @@ This product includes software developed by the OpenSSL Project for use in the O
     </message>
     <message>
         <location line="-200"/>
-        <source>TAKE</source>
-        <translation>TAKE</translation>
+        <source>TAKE1</source>
+        <translation>TAKE1</translation>
     </message>
     <message>
         <location line="+0"/>
@@ -480,8 +480,8 @@ This product includes software developed by the OpenSSL Project for use in the O
     </message>
     <message>
         <location line="+178"/>
-        <source>&amp;About TAKE</source>
-        <translation>TAKE &amp;Hakkında</translation>
+        <source>&amp;About TAKE1</source>
+        <translation>TAKE1 &amp;Hakkında</translation>
     </message>
     <message>
         <location line="+9"/>
@@ -537,13 +537,13 @@ This product includes software developed by the OpenSSL Project for use in the O
     <message>
         <location line="+0"/>
         <location line="+60"/>
-        <source>TAKE client</source>
-        <translation>TAKE istemcisi</translation>
+        <source>TAKE1 client</source>
+        <translation>TAKE1 istemcisi</translation>
     </message>
     <message numerus="yes">
         <location line="+70"/>
-        <source>%n active connection(s) to TAKE network</source>
-        <translation><numerusform>TAKE ağına %n etkin bağlantı</numerusform><numerusform>TAKE ağına %n etkin bağlantı</numerusform></translation>
+        <source>%n active connection(s) to TAKE1 network</source>
+        <translation><numerusform>TAKE1 ağına %n etkin bağlantı</numerusform><numerusform>TAKE1 ağına %n etkin bağlantı</numerusform></translation>
     </message>
     <message>
         <location line="+40"/>
@@ -657,8 +657,8 @@ Adres: %4
     <message>
         <location line="-15"/>
         <location line="+15"/>
-        <source>URI can not be parsed! This can be caused by an invalid TAKE address or malformed URI parameters.</source>
-        <translation>URI ayrıştırılamadı! Bu, geçersiz bir TAKE adresi veya hatalı URI parametreleri nedeniyle olabilir.</translation>
+        <source>URI can not be parsed! This can be caused by an invalid TAKE1 address or malformed URI parameters.</source>
+        <translation>URI ayrıştırılamadı! Bu, geçersiz bir TAKE1 adresi veya hatalı URI parametreleri nedeniyle olabilir.</translation>
     </message>
     <message>
         <location line="+18"/>
@@ -717,8 +717,8 @@ Adres: %4
     </message>
     <message>
         <location filename="../bitcoin.cpp" line="+109"/>
-        <source>A fatal error occurred. TAKE can no longer continue safely and will quit.</source>
-        <translation>Önemli bir hata oluştu. TAKE artık güvenli bir şekilde devam edemez ve şimdi kapatılacak.</translation>
+        <source>A fatal error occurred. TAKE1 can no longer continue safely and will quit.</source>
+        <translation>Önemli bir hata oluştu. TAKE1 artık güvenli bir şekilde devam edemez ve şimdi kapatılacak.</translation>
     </message>
 </context>
 <context>
@@ -1051,8 +1051,8 @@ This label turns red, if the priority is smaller than &quot;medium&quot;.
     </message>
     <message>
         <location line="-5"/>
-        <source>The entered address &quot;%1&quot; is not a valid TAKE address.</source>
-        <translation>Girilen %1 adresi, geçerli bir TAKE adresi değildir.</translation>
+        <source>The entered address &quot;%1&quot; is not a valid TAKE1 address.</source>
+        <translation>Girilen %1 adresi, geçerli bir TAKE1 adresi değildir.</translation>
     </message>
     <message>
         <location line="+10"/>
@@ -1070,8 +1070,8 @@ This label turns red, if the priority is smaller than &quot;medium&quot;.
     <message>
         <location filename="../guiutil.cpp" line="+420"/>
         <location line="+12"/>
-        <source>TAKE-Qt</source>
-        <translation>TAKE-Qt</translation>
+        <source>TAKE1-Qt</source>
+        <translation>TAKE1-Qt</translation>
     </message>
     <message>
         <location line="-12"/>
@@ -1143,13 +1143,13 @@ This label turns red, if the priority is smaller than &quot;medium&quot;.
     </message>
     <message>
         <location line="+31"/>
-        <source>Automatically start TAKE after logging in to the system.</source>
-        <translation>Sisteme giriş yaptıktan sonra TAKE&apos;i otomatik olarak başlat</translation>
+        <source>Automatically start TAKE1 after logging in to the system.</source>
+        <translation>Sisteme giriş yaptıktan sonra TAKE1&apos;i otomatik olarak başlat</translation>
     </message>
     <message>
         <location line="+3"/>
-        <source>&amp;Start TAKE on system login</source>
-        <translation>Sisteme girişte TAKE&apos;i &amp;başlat</translation>
+        <source>&amp;Start TAKE1 on system login</source>
+        <translation>Sisteme girişte TAKE1&apos;i &amp;başlat</translation>
     </message>
     <message>
         <location line="+7"/>
@@ -1168,8 +1168,8 @@ This label turns red, if the priority is smaller than &quot;medium&quot;.
     </message>
     <message>
         <location line="+6"/>
-        <source>Automatically open the TAKE client port on the router. This only works when your router supports UPnP and it is enabled.</source>
-        <translation>Yönelticide TAKE istemci portunu otomatik olarak aç. Bu, sadece yönelticiniz UPnP&apos;i desteklediğinde ve etkin olduğunda çalışır.</translation>
+        <source>Automatically open the TAKE1 client port on the router. This only works when your router supports UPnP and it is enabled.</source>
+        <translation>Yönelticide TAKE1 istemci portunu otomatik olarak aç. Bu, sadece yönelticiniz UPnP&apos;i desteklediğinde ve etkin olduğunda çalışır.</translation>
     </message>
     <message>
         <location line="+3"/>
@@ -1178,8 +1178,8 @@ This label turns red, if the priority is smaller than &quot;medium&quot;.
     </message>
     <message>
         <location line="+7"/>
-        <source>Connect to the TAKE network through a SOCKS proxy (e.g. when connecting through Tor).</source>
-        <translation>TAKE ağına bir SOCKS vekil sunucusu yoluyla bağlan (örn. Tor yoluyla bağlanıldığında)</translation>
+        <source>Connect to the TAKE1 network through a SOCKS proxy (e.g. when connecting through Tor).</source>
+        <translation>TAKE1 ağına bir SOCKS vekil sunucusu yoluyla bağlan (örn. Tor yoluyla bağlanıldığında)</translation>
     </message>
     <message>
         <location line="+3"/>
@@ -1253,8 +1253,8 @@ This label turns red, if the priority is smaller than &quot;medium&quot;.
     </message>
     <message>
         <location line="+13"/>
-        <source>The user interface language can be set here. This setting will take effect after restarting TAKE.</source>
-        <translation>Kullanıcı arabirimi dili buradan ayarlanabilir. Ayar, TAKE yeniden başlatıldığında etkin olacaktır.</translation>
+        <source>The user interface language can be set here. This setting will take effect after restarting TAKE1.</source>
+        <translation>Kullanıcı arabirimi dili buradan ayarlanabilir. Ayar, TAKE1 yeniden başlatıldığında etkin olacaktır.</translation>
     </message>
     <message>
         <location line="+11"/>
@@ -1268,8 +1268,8 @@ This label turns red, if the priority is smaller than &quot;medium&quot;.
     </message>
     <message>
         <location line="+9"/>
-        <source>Whether to show TAKE addresses in the transaction list or not.</source>
-        <translation>TAKE adresinin işlem listesinde gösterilmesi veya gösterilmemesi</translation>
+        <source>Whether to show TAKE1 addresses in the transaction list or not.</source>
+        <translation>TAKE1 adresinin işlem listesinde gösterilmesi veya gösterilmemesi</translation>
     </message>
     <message>
         <location line="+3"/>
@@ -1315,8 +1315,8 @@ This label turns red, if the priority is smaller than &quot;medium&quot;.
     <message>
         <location line="-9"/>
         <location line="+9"/>
-        <source>This setting will take effect after restarting TAKE.</source>
-        <translation>Bu ayar, TAKE&apos;i yeniden başlattıktan sonra etkin olacaktır.</translation>
+        <source>This setting will take effect after restarting TAKE1.</source>
+        <translation>Bu ayar, TAKE1&apos;i yeniden başlattıktan sonra etkin olacaktır.</translation>
     </message>
     <message>
         <location line="+29"/>
@@ -1334,8 +1334,8 @@ This label turns red, if the priority is smaller than &quot;medium&quot;.
     <message>
         <location line="+33"/>
         <location line="+231"/>
-        <source>The displayed information may be out of date. Your wallet automatically synchronizes with the TAKE network after a connection is established, but this process has not completed yet.</source>
-        <translation>Görüntülenen bilginin tarihi geçmiş olabilir. Cüzdanınız, bağlantı kurulduktan sonra otomatik olarak TAKE ağı ile senkronize olur ancak bu süreç, henüz tamamlanmamıştır.</translation>
+        <source>The displayed information may be out of date. Your wallet automatically synchronizes with the TAKE1 network after a connection is established, but this process has not completed yet.</source>
+        <translation>Görüntülenen bilginin tarihi geçmiş olabilir. Cüzdanınız, bağlantı kurulduktan sonra otomatik olarak TAKE1 ağı ile senkronize olur ancak bu süreç, henüz tamamlanmamıştır.</translation>
     </message>
     <message>
         <location line="-160"/>
@@ -1550,8 +1550,8 @@ This label turns red, if the priority is smaller than &quot;medium&quot;.
     </message>
     <message>
         <location line="+7"/>
-        <source>Show the TAKE-Qt help message to get a list with possible TAKE command-line options.</source>
-        <translation>Muhtemel TAKE komut satırı seçeneklerinin bir listesini getirmek için TAKE-Qt yardım mesajını göster</translation>
+        <source>Show the TAKE1-Qt help message to get a list with possible TAKE1 command-line options.</source>
+        <translation>Muhtemel TAKE1 komut satırı seçeneklerinin bir listesini getirmek için TAKE1-Qt yardım mesajını göster</translation>
     </message>
     <message>
         <location line="+3"/>
@@ -1570,13 +1570,13 @@ This label turns red, if the priority is smaller than &quot;medium&quot;.
     </message>
     <message>
         <location line="-104"/>
-        <source>TAKE - Debug window</source>
-        <translation>TAKE - Hata ayıklama penceresi</translation>
+        <source>TAKE1 - Debug window</source>
+        <translation>TAKE1 - Hata ayıklama penceresi</translation>
     </message>
     <message>
         <location line="+25"/>
-        <source>TAKE Core</source>
-        <translation>TAKE Core</translation>
+        <source>TAKE1 Core</source>
+        <translation>TAKE1 Core</translation>
     </message>
     <message>
         <location line="+279"/>
@@ -1585,8 +1585,8 @@ This label turns red, if the priority is smaller than &quot;medium&quot;.
     </message>
     <message>
         <location line="+7"/>
-        <source>Open the TAKE debug log file from the current data directory. This can take a few seconds for large log files.</source>
-        <translation>TAKE hata ayıklama günlük kütüğü dosyasını, mevcut veri klasöründen aç. Bu işlem, büyük günlük kütüğü dosyaları için birkaç saniye sürebilir.</translation>
+        <source>Open the TAKE1 debug log file from the current data directory. This can take a few seconds for large log files.</source>
+        <translation>TAKE1 hata ayıklama günlük kütüğü dosyasını, mevcut veri klasöründen aç. Bu işlem, büyük günlük kütüğü dosyaları için birkaç saniye sürebilir.</translation>
     </message>
     <message>
         <location line="+102"/>
@@ -1595,8 +1595,8 @@ This label turns red, if the priority is smaller than &quot;medium&quot;.
     </message>
     <message>
         <location filename="../rpcconsole.cpp" line="-33"/>
-        <source>Welcome to the TAKE RPC console.</source>
-        <translation>TAKE RPC konsoluna hoş geldiniz.</translation>
+        <source>Welcome to the TAKE1 RPC console.</source>
+        <translation>TAKE1 RPC konsoluna hoş geldiniz.</translation>
     </message>
     <message>
         <location line="+1"/>
@@ -1754,8 +1754,8 @@ This label turns red, if the priority is smaller than &quot;medium&quot;.
     </message>
     <message>
         <location filename="../sendcoinsdialog.cpp" line="-173"/>
-        <source>Enter a TAKE address (e.g. B8gZqgY4r2RoEdqYk3QsAqFckyf9pRHN6i)</source>
-        <translation>Bir TAKE adresi gir (örn: B8gZqgY4r2RoEdqYk3QsAqFckyf9pRHN6i)</translation>
+        <source>Enter a TAKE1 address (e.g. B8gZqgY4r2RoEdqYk3QsAqFckyf9pRHN6i)</source>
+        <translation>Bir TAKE1 adresi gir (örn: B8gZqgY4r2RoEdqYk3QsAqFckyf9pRHN6i)</translation>
     </message>
     <message>
         <location line="+15"/>
@@ -1854,8 +1854,8 @@ This label turns red, if the priority is smaller than &quot;medium&quot;.
     </message>
     <message>
         <location line="+251"/>
-        <source>WARNING: Invalid TAKE address</source>
-        <translation>UYARI: Geçersiz TAKE adresi</translation>
+        <source>WARNING: Invalid TAKE1 address</source>
+        <translation>UYARI: Geçersiz TAKE1 adresi</translation>
     </message>
     <message>
         <location line="+13"/>
@@ -1928,8 +1928,8 @@ This label turns red, if the priority is smaller than &quot;medium&quot;.
     </message>
     <message>
         <location filename="../sendcoinsentry.cpp" line="+1"/>
-        <source>Enter a TAKE address (e.g. B8gZqgY4r2RoEdqYk3QsAqFckyf9pRHN6i)</source>
-        <translation>Bir TAKE adresi girin (örn: B8gZqgY4r2RoEdqYk3QsAqFckyf9pRHN6i)</translation>
+        <source>Enter a TAKE1 address (e.g. B8gZqgY4r2RoEdqYk3QsAqFckyf9pRHN6i)</source>
+        <translation>Bir TAKE1 adresi girin (örn: B8gZqgY4r2RoEdqYk3QsAqFckyf9pRHN6i)</translation>
     </message>
 </context>
 <context>
@@ -1989,8 +1989,8 @@ This label turns red, if the priority is smaller than &quot;medium&quot;.
     </message>
     <message>
         <location line="+21"/>
-        <source>Sign the message to prove you own this TAKE address</source>
-        <translation>Bu TAKE adresine sahip olduğunuzu ispatlamak için mesajı imzala</translation>
+        <source>Sign the message to prove you own this TAKE1 address</source>
+        <translation>Bu TAKE1 adresine sahip olduğunuzu ispatlamak için mesajı imzala</translation>
     </message>
     <message>
         <location line="+17"/>
@@ -2021,8 +2021,8 @@ This label turns red, if the priority is smaller than &quot;medium&quot;.
     </message>
     <message>
         <location line="+40"/>
-        <source>Verify the message to ensure it was signed with the specified TAKE address</source>
-        <translation>Mesajın, belirtilen TAKE adresiyle imzalandığından emin olmak için onu doğrula</translation>
+        <source>Verify the message to ensure it was signed with the specified TAKE1 address</source>
+        <translation>Mesajın, belirtilen TAKE1 adresiyle imzalandığından emin olmak için onu doğrula</translation>
     </message>
     <message>
         <location line="+17"/>
@@ -2032,8 +2032,8 @@ This label turns red, if the priority is smaller than &quot;medium&quot;.
     <message>
         <location filename="../signverifymessagedialog.cpp" line="+27"/>
         <location line="+3"/>
-        <source>Enter a TAKE address (e.g. B8gZqgY4r2RoEdqYk3QsAqFckyf9pRHN6i)</source>
-        <translation>Bir TAKE adresi girin (örn: B8gZqgY4r2RoEdqYk3QsAqFckyf9pRHN6i)</translation>
+        <source>Enter a TAKE1 address (e.g. B8gZqgY4r2RoEdqYk3QsAqFckyf9pRHN6i)</source>
+        <translation>Bir TAKE1 adresi girin (örn: B8gZqgY4r2RoEdqYk3QsAqFckyf9pRHN6i)</translation>
     </message>
     <message>
         <location line="-2"/>
@@ -2042,8 +2042,8 @@ This label turns red, if the priority is smaller than &quot;medium&quot;.
     </message>
     <message>
         <location line="+3"/>
-        <source>Enter TAKE signature</source>
-        <translation>TAKE imzası gir</translation>
+        <source>Enter TAKE1 signature</source>
+        <translation>TAKE1 imzası gir</translation>
     </message>
     <message>
         <location line="+82"/>
@@ -2613,8 +2613,8 @@ This label turns red, if the priority is smaller than &quot;medium&quot;.
     <name>bitcoin-core</name>
     <message>
         <location filename="../bitcoinstrings.cpp" line="+33"/>
-        <source>TAKE version</source>
-        <translation>TAKE versiyonu</translation>
+        <source>TAKE1 version</source>
+        <translation>TAKE1 versiyonu</translation>
     </message>
     <message>
         <location line="+1"/>
@@ -2623,8 +2623,8 @@ This label turns red, if the priority is smaller than &quot;medium&quot;.
     </message>
     <message>
         <location line="+1"/>
-        <source>Send command to -server or taked</source>
-        <translation>-sunucu veya taked&apos;ye komut gönder</translation>
+        <source>Send command to -server or take1d</source>
+        <translation>-sunucu veya take1d&apos;ye komut gönder</translation>
     </message>
     <message>
         <location line="+1"/>
@@ -2643,13 +2643,13 @@ This label turns red, if the priority is smaller than &quot;medium&quot;.
     </message>
     <message>
         <location line="+2"/>
-        <source>Specify configuration file (default: take.conf)</source>
-        <translation>Konfigürasyon dosyasını belirt (varsayılan: take.conf)</translation>
+        <source>Specify configuration file (default: take1.conf)</source>
+        <translation>Konfigürasyon dosyasını belirt (varsayılan: take1.conf)</translation>
     </message>
     <message>
         <location line="+1"/>
-        <source>Specify pid file (default: taked.pid)</source>
-        <translation>pid dosyasını belirt (varsayılan: take.pid)</translation>
+        <source>Specify pid file (default: take1d.pid)</source>
+        <translation>pid dosyasını belirt (varsayılan: take1.pid)</translation>
     </message>
     <message>
         <location line="+2"/>
@@ -2798,8 +2798,8 @@ This label turns red, if the priority is smaller than &quot;medium&quot;.
     </message>
     <message>
         <location line="+61"/>
-        <source>Warning: Please check that your computer&apos;s date and time are correct! If your clock is wrong TAKE will not work properly.</source>
-        <translation>Uyarı: Lütfen bilgisayarınızın tarih ve saatinin doğru olduğunu kontrol ediniz! Saatiniz yanlış ise, TAKE düzgün çalışmayacaktır.</translation>
+        <source>Warning: Please check that your computer&apos;s date and time are correct! If your clock is wrong TAKE1 will not work properly.</source>
+        <translation>Uyarı: Lütfen bilgisayarınızın tarih ve saatinin doğru olduğunu kontrol ediniz! Saatiniz yanlış ise, TAKE1 düzgün çalışmayacaktır.</translation>
     </message>
     <message>
         <location line="-31"/>
@@ -2994,7 +2994,7 @@ rpcpassword=%s
 The username and password MUST NOT be the same.
 If the file does not exist, create it with owner-readable-only file permissions.
 It is also recommended to set alertnotify so you are notified of problems;
-for example: alertnotify=echo %%s | mail -s &quot;TAKE Alert&quot; admin@foo.com
+for example: alertnotify=echo %%s | mail -s &quot;TAKE1 Alert&quot; admin@foo.com
 </source>
         <translation>%s, konfigürasyon dosyasında bir rpcpassword belirlemelisiniz:
  %s
@@ -3005,7 +3005,7 @@ rpcpassword=%s
 Kullanıcı adı ve parola aynı OLMAMALIDIR.
 Dosya mevcut değilse, dosyayı sadece-kullanıcı-okuyabilir dosya izniyle yaratınız.
 alertnotify ayarlamanız da ayrıca tavsiye edilir böylece sorunlar, size bildirilir;
-örneğin: alertnotify=echo %%s | mail -s &quot;TAKE Uyarısı&quot; admin@foo.com
+örneğin: alertnotify=echo %%s | mail -s &quot;TAKE1 Uyarısı&quot; admin@foo.com
 </translation>
     </message>
     <message>
@@ -3130,12 +3130,12 @@ alertnotify ayarlamanız da ayrıca tavsiye edilir böylece sorunlar, size bildi
     </message>
     <message>
         <location line="+1"/>
-        <source>Cannot obtain a lock on data directory %s.  TAKE is probably already running.</source>
+        <source>Cannot obtain a lock on data directory %s.  TAKE1 is probably already running.</source>
         <translation type="unfinished"/>
     </message>
     <message>
         <location line="-98"/>
-        <source>TAKE</source>
+        <source>TAKE1</source>
         <translation type="unfinished"/>
     </message>
     <message>
@@ -3170,12 +3170,12 @@ alertnotify ayarlamanız da ayrıca tavsiye edilir böylece sorunlar, size bildi
     </message>
     <message>
         <location line="+4"/>
-        <source>Error loading wallet.dat: Wallet requires newer version of TAKE</source>
+        <source>Error loading wallet.dat: Wallet requires newer version of TAKE1</source>
         <translation type="unfinished"/>
     </message>
     <message>
         <location line="+1"/>
-        <source>Wallet needed to be rewritten: restart TAKE to complete</source>
+        <source>Wallet needed to be rewritten: restart TAKE1 to complete</source>
         <translation type="unfinished"/>
     </message>
     <message>
@@ -3245,7 +3245,7 @@ alertnotify ayarlamanız da ayrıca tavsiye edilir böylece sorunlar, size bildi
     </message>
     <message>
         <location line="+122"/>
-        <source>Unable to bind to %s on this computer. TAKE is probably already running.</source>
+        <source>Unable to bind to %s on this computer. TAKE1 is probably already running.</source>
         <translation type="unfinished"/>
     </message>
     <message>

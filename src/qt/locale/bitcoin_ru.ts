@@ -3,22 +3,22 @@
     <name>AboutDialog</name>
     <message>
         <location filename="../forms/aboutdialog.ui" line="+14"/>
-        <source>About TAKE</source>
-        <translation>О TAKE</translation>
+        <source>About TAKE1</source>
+        <translation>О TAKE1</translation>
     </message>
     <message>
         <location line="+39"/>
-        <source>&lt;b&gt;TAKE&lt;/b&gt; version</source>
-        <translation>&lt;b&gt;TAKE&lt;/b&gt; версия</translation>
+        <source>&lt;b&gt;TAKE1&lt;/b&gt; version</source>
+        <translation>&lt;b&gt;TAKE1&lt;/b&gt; версия</translation>
     </message>
     <message>
         <location line="+41"/>
         <source>Copyright © 2009-2014 The Bitcoin developers
 Copyright © 2012-2014 The NovaCoin developers
-Copyright © 2014 The TAKE developers</source>
+Copyright © 2014 The TAKE1 developers</source>
         <translation>Все права защищены © 2009-2014 Разработчики Bitcoin
 Все права защищены © 2012-2014 Разработчики NovaCoin
-Все права защищены © 2014 Разработчики TAKE</translation>
+Все права защищены © 2014 Разработчики TAKE1</translation>
     </message>
     <message>
         <location line="+15"/>
@@ -65,7 +65,7 @@ This product includes software developed by the OpenSSL Project for use in the O
     </message>
     <message>
         <location line="-46"/>
-        <source>These are your TAKE addresses for receiving payments. You may want to give a different one to each sender so you can keep track of who is paying you.</source>
+        <source>These are your TAKE1 addresses for receiving payments. You may want to give a different one to each sender so you can keep track of who is paying you.</source>
         <translation>Это Ваши адреса для получения платежей. Вы можете дать разные адреса отправителям, чтобы отслеживать, кто именно вам платит.</translation>
     </message>
     <message>
@@ -80,8 +80,8 @@ This product includes software developed by the OpenSSL Project for use in the O
     </message>
     <message>
         <location line="+11"/>
-        <source>Sign a message to prove you own a TAKE address</source>
-        <translation>Подписать сообщение, чтобы доказать владение адресом TAKE</translation>
+        <source>Sign a message to prove you own a TAKE1 address</source>
+        <translation>Подписать сообщение, чтобы доказать владение адресом TAKE1</translation>
     </message>
     <message>
         <location line="+3"/>
@@ -95,8 +95,8 @@ This product includes software developed by the OpenSSL Project for use in the O
     </message>
     <message>
         <location line="-14"/>
-        <source>Verify a message to ensure it was signed with a specified TAKE address</source>
-        <translation>Проверить сообщение, чтобы убедиться, что оно было подписано указанным адресом TAKE</translation>
+        <source>Verify a message to ensure it was signed with a specified TAKE1 address</source>
+        <translation>Проверить сообщение, чтобы убедиться, что оно было подписано указанным адресом TAKE1</translation>
     </message>
     <message>
         <location line="+3"/>
@@ -263,7 +263,7 @@ This product includes software developed by the OpenSSL Project for use in the O
     </message>
     <message>
         <location line="-58"/>
-        <source>TAKE will close now to finish the encryption process. Remember that encrypting your wallet cannot fully protect your coins from being stolen by malware infecting your computer.</source>
+        <source>TAKE1 will close now to finish the encryption process. Remember that encrypting your wallet cannot fully protect your coins from being stolen by malware infecting your computer.</source>
         <translation>Сейчас программа закроется для завершения процесса шифрования. Помните, что шифрование вашего бумажника не может полностью защитить ваши монеты от кражи с помощью инфицирования вашего компьютера вредоносным ПО.</translation>
     </message>
     <message>
@@ -377,8 +377,8 @@ This product includes software developed by the OpenSSL Project for use in the O
     </message>
     <message>
         <location line="+4"/>
-        <source>Show information about TAKE</source>
-        <translation>Показать информацию о TAKE&apos;е</translation>
+        <source>Show information about TAKE1</source>
+        <translation>Показать информацию о TAKE1&apos;е</translation>
     </message>
     <message>
         <location line="+2"/>
@@ -427,13 +427,13 @@ This product includes software developed by the OpenSSL Project for use in the O
     </message>
     <message>
         <location line="-62"/>
-        <source>Send coins to a TAKE address</source>
-        <translation>Отправить монеты на указанный адрес TAKE</translation>
+        <source>Send coins to a TAKE1 address</source>
+        <translation>Отправить монеты на указанный адрес TAKE1</translation>
     </message>
     <message>
         <location line="+45"/>
-        <source>Modify configuration options for TAKE</source>
-        <translation>Изменить параметры конфигурации TAKE</translation>
+        <source>Modify configuration options for TAKE1</source>
+        <translation>Изменить параметры конфигурации TAKE1</translation>
     </message>
     <message>
         <location line="+18"/>
@@ -472,8 +472,8 @@ This product includes software developed by the OpenSSL Project for use in the O
     </message>
     <message>
         <location line="-200"/>
-        <source>TAKE</source>
-        <translation>TAKE</translation>
+        <source>TAKE1</source>
+        <translation>TAKE1</translation>
     </message>
     <message>
         <location line="+0"/>
@@ -482,8 +482,8 @@ This product includes software developed by the OpenSSL Project for use in the O
     </message>
     <message>
         <location line="+178"/>
-        <source>&amp;About TAKE</source>
-        <translation>&amp;О TAKE</translation>
+        <source>&amp;About TAKE1</source>
+        <translation>&amp;О TAKE1</translation>
     </message>
     <message>
         <location line="+9"/>
@@ -539,12 +539,12 @@ This product includes software developed by the OpenSSL Project for use in the O
     <message>
         <location line="+0"/>
         <location line="+60"/>
-        <source>TAKE client</source>
-        <translation>TAKE клиент</translation>
+        <source>TAKE1 client</source>
+        <translation>TAKE1 клиент</translation>
     </message>
     <message numerus="yes">
         <location line="+70"/>
-        <source>%n active connection(s) to TAKE network</source>
+        <source>%n active connection(s) to TAKE1 network</source>
         <translation><numerusform>%n активное соединение с сетью</numerusform><numerusform>%n активных соединений с сетью</numerusform><numerusform>%n активных соединений с сетью</numerusform></translation>
     </message>
     <message>
@@ -659,8 +659,8 @@ Address: %4
     <message>
         <location line="-15"/>
         <location line="+15"/>
-        <source>URI can not be parsed! This can be caused by an invalid TAKE address or malformed URI parameters.</source>
-        <translation>Не удалось обработать URI! Это может быть связано с неверным адресом TAKE или неправильными параметрами URI.</translation>
+        <source>URI can not be parsed! This can be caused by an invalid TAKE1 address or malformed URI parameters.</source>
+        <translation>Не удалось обработать URI! Это может быть связано с неверным адресом TAKE1 или неправильными параметрами URI.</translation>
     </message>
     <message>
         <location line="+18"/>
@@ -719,8 +719,8 @@ Address: %4
     </message>
     <message>
         <location filename="../bitcoin.cpp" line="+109"/>
-        <source>A fatal error occurred. TAKE can no longer continue safely and will quit.</source>
-        <translation>Произошла неисправимая ошибка. TAKE не может безопасно продолжать работу и будет закрыт.</translation>
+        <source>A fatal error occurred. TAKE1 can no longer continue safely and will quit.</source>
+        <translation>Произошла неисправимая ошибка. TAKE1 не может безопасно продолжать работу и будет закрыт.</translation>
     </message>
 </context>
 <context>
@@ -1039,8 +1039,8 @@ This label turns red, if the priority is smaller than &quot;medium&quot;.
     </message>
     <message>
         <location line="-5"/>
-        <source>The entered address &quot;%1&quot; is not a valid TAKE address.</source>
-        <translation>Введённый адрес &quot;%1&quot; не является правильным TAKE-адресом.</translation>
+        <source>The entered address &quot;%1&quot; is not a valid TAKE1 address.</source>
+        <translation>Введённый адрес &quot;%1&quot; не является правильным TAKE1-адресом.</translation>
     </message>
     <message>
         <location line="+10"/>
@@ -1058,8 +1058,8 @@ This label turns red, if the priority is smaller than &quot;medium&quot;.
     <message>
         <location filename="../guiutil.cpp" line="+420"/>
         <location line="+12"/>
-        <source>TAKE-Qt</source>
-        <translation>TAKE-Qt</translation>
+        <source>TAKE1-Qt</source>
+        <translation>TAKE1-Qt</translation>
     </message>
     <message>
         <location line="-12"/>
@@ -1131,13 +1131,13 @@ This label turns red, if the priority is smaller than &quot;medium&quot;.
     </message>
     <message>
         <location line="+31"/>
-        <source>Automatically start TAKE after logging in to the system.</source>
-        <translation>Автоматически запускать TAKE после входа в систему</translation>
+        <source>Automatically start TAKE1 after logging in to the system.</source>
+        <translation>Автоматически запускать TAKE1 после входа в систему</translation>
     </message>
     <message>
         <location line="+3"/>
-        <source>&amp;Start TAKE on system login</source>
-        <translation>&amp;Запускать TAKE при входе в систему</translation>
+        <source>&amp;Start TAKE1 on system login</source>
+        <translation>&amp;Запускать TAKE1 при входе в систему</translation>
     </message>
     <message>
         <location line="+7"/>
@@ -1156,8 +1156,8 @@ This label turns red, if the priority is smaller than &quot;medium&quot;.
     </message>
     <message>
         <location line="+6"/>
-        <source>Automatically open the TAKE client port on the router. This only works when your router supports UPnP and it is enabled.</source>
-        <translation>Автоматически открыть порт для TAKE-клиента на роутере. Работает только если Ваш роутер поддерживает UPnP, и данная функция включена.</translation>
+        <source>Automatically open the TAKE1 client port on the router. This only works when your router supports UPnP and it is enabled.</source>
+        <translation>Автоматически открыть порт для TAKE1-клиента на роутере. Работает только если Ваш роутер поддерживает UPnP, и данная функция включена.</translation>
     </message>
     <message>
         <location line="+3"/>
@@ -1166,8 +1166,8 @@ This label turns red, if the priority is smaller than &quot;medium&quot;.
     </message>
     <message>
         <location line="+7"/>
-        <source>Connect to the TAKE network through a SOCKS proxy (e.g. when connecting through Tor).</source>
-        <translation>Подключаться к сети TAKE через прокси SOCKS (например, при подключении через Tor).</translation>
+        <source>Connect to the TAKE1 network through a SOCKS proxy (e.g. when connecting through Tor).</source>
+        <translation>Подключаться к сети TAKE1 через прокси SOCKS (например, при подключении через Tor).</translation>
     </message>
     <message>
         <location line="+3"/>
@@ -1241,8 +1241,8 @@ This label turns red, if the priority is smaller than &quot;medium&quot;.
     </message>
     <message>
         <location line="+13"/>
-        <source>The user interface language can be set here. This setting will take effect after restarting TAKE.</source>
-        <translation>Здесь можно выбрать язык интерфейса. Настройки вступят в силу после перезапуска TAKE.</translation>
+        <source>The user interface language can be set here. This setting will take effect after restarting TAKE1.</source>
+        <translation>Здесь можно выбрать язык интерфейса. Настройки вступят в силу после перезапуска TAKE1.</translation>
     </message>
     <message>
         <location line="+11"/>
@@ -1256,8 +1256,8 @@ This label turns red, if the priority is smaller than &quot;medium&quot;.
     </message>
     <message>
         <location line="+9"/>
-        <source>Whether to show TAKE addresses in the transaction list or not.</source>
-        <translation>Показывать ли адреса TAKE в списке транзакций.</translation>
+        <source>Whether to show TAKE1 addresses in the transaction list or not.</source>
+        <translation>Показывать ли адреса TAKE1 в списке транзакций.</translation>
     </message>
     <message>
         <location line="+3"/>
@@ -1303,8 +1303,8 @@ This label turns red, if the priority is smaller than &quot;medium&quot;.
     <message>
         <location line="-9"/>
         <location line="+9"/>
-        <source>This setting will take effect after restarting TAKE.</source>
-        <translation>Эта настройка вступит в силу после перезапуска TAKE</translation>
+        <source>This setting will take effect after restarting TAKE1.</source>
+        <translation>Эта настройка вступит в силу после перезапуска TAKE1</translation>
     </message>
     <message>
         <location line="+29"/>
@@ -1322,12 +1322,12 @@ This label turns red, if the priority is smaller than &quot;medium&quot;.
     <message>
         <location line="+33"/>
         <location line="+231"/>
-        <source>The displayed information may be out of date. Your wallet automatically synchronizes with the TAKE network after a connection is established, but this process has not completed yet.</source>
-        <translation>Отображаемая информация может быть устаревшей. Ваш бумажник автоматически синхронизируется с сетью TAKE после подключения, но этот процесс пока не завершён.</translation>
+        <source>The displayed information may be out of date. Your wallet automatically synchronizes with the TAKE1 network after a connection is established, but this process has not completed yet.</source>
+        <translation>Отображаемая информация может быть устаревшей. Ваш бумажник автоматически синхронизируется с сетью TAKE1 после подключения, но этот процесс пока не завершён.</translation>
     </message>
     <message>
         <location line="-160"/>
-        <source>STAKE:</source>
+        <source>STAKE1:</source>
         <translation>СТАВКА:</translation>
     </message>
     <message>
@@ -1538,8 +1538,8 @@ This label turns red, if the priority is smaller than &quot;medium&quot;.
     </message>
     <message>
         <location line="+7"/>
-        <source>Show the TAKE-Qt help message to get a list with possible TAKE command-line options.</source>
-        <translation>Показать помощь по TAKE-Qt, чтобы получить список доступных параметров командной строки.</translation>
+        <source>Show the TAKE1-Qt help message to get a list with possible TAKE1 command-line options.</source>
+        <translation>Показать помощь по TAKE1-Qt, чтобы получить список доступных параметров командной строки.</translation>
     </message>
     <message>
         <location line="+3"/>
@@ -1558,13 +1558,13 @@ This label turns red, if the priority is smaller than &quot;medium&quot;.
     </message>
     <message>
         <location line="-104"/>
-        <source>TAKE - Debug window</source>
-        <translation>TAKE - Окно отладки</translation>
+        <source>TAKE1 - Debug window</source>
+        <translation>TAKE1 - Окно отладки</translation>
     </message>
     <message>
         <location line="+25"/>
-        <source>TAKE Core</source>
-        <translation>Ядро TAKE</translation>
+        <source>TAKE1 Core</source>
+        <translation>Ядро TAKE1</translation>
     </message>
     <message>
         <location line="+279"/>
@@ -1573,8 +1573,8 @@ This label turns red, if the priority is smaller than &quot;medium&quot;.
     </message>
     <message>
         <location line="+7"/>
-        <source>Open the TAKE debug log file from the current data directory. This can take a few seconds for large log files.</source>
-        <translation>Открыть отладочный лог-файл TAKE из текущего каталога данных. Это может занять несколько секунд для больших лог-файлов.</translation>
+        <source>Open the TAKE1 debug log file from the current data directory. This can take a few seconds for large log files.</source>
+        <translation>Открыть отладочный лог-файл TAKE1 из текущего каталога данных. Это может занять несколько секунд для больших лог-файлов.</translation>
     </message>
     <message>
         <location line="+102"/>
@@ -1583,8 +1583,8 @@ This label turns red, if the priority is smaller than &quot;medium&quot;.
     </message>
     <message>
         <location filename="../rpcconsole.cpp" line="-33"/>
-        <source>Welcome to the TAKE RPC console.</source>
-        <translation>Добро пожаловать в RPC-консоль TAKE.</translation>
+        <source>Welcome to the TAKE1 RPC console.</source>
+        <translation>Добро пожаловать в RPC-консоль TAKE1.</translation>
     </message>
     <message>
         <location line="+1"/>
@@ -1742,8 +1742,8 @@ This label turns red, if the priority is smaller than &quot;medium&quot;.
     </message>
     <message>
         <location filename="../sendcoinsdialog.cpp" line="-173"/>
-        <source>Enter a TAKE address (e.g. B8gZqgY4r2RoEdqYk3QsAqFckyf9pRHN6i)</source>
-        <translation>Введите TAKE-адрес (например B8gZqgY4r2RoEdqYk3QsAqFckyf9pRHN6i)</translation>
+        <source>Enter a TAKE1 address (e.g. B8gZqgY4r2RoEdqYk3QsAqFckyf9pRHN6i)</source>
+        <translation>Введите TAKE1-адрес (например B8gZqgY4r2RoEdqYk3QsAqFckyf9pRHN6i)</translation>
     </message>
     <message>
         <location line="+15"/>
@@ -1842,7 +1842,7 @@ This label turns red, if the priority is smaller than &quot;medium&quot;.
     </message>
     <message>
         <location line="+251"/>
-        <source>WARNING: Invalid TAKE address</source>
+        <source>WARNING: Invalid TAKE1 address</source>
         <translation type="unfinished"/>
     </message>
     <message>
@@ -1916,8 +1916,8 @@ This label turns red, if the priority is smaller than &quot;medium&quot;.
     </message>
     <message>
         <location filename="../sendcoinsentry.cpp" line="+1"/>
-        <source>Enter a TAKE address (e.g. B8gZqgY4r2RoEdqYk3QsAqFckyf9pRHN6i)</source>
-        <translation>Введите TAKE-адрес (например B8gZqgY4r2RoEdqYk3QsAqFckyf9pRHN6i)</translation>
+        <source>Enter a TAKE1 address (e.g. B8gZqgY4r2RoEdqYk3QsAqFckyf9pRHN6i)</source>
+        <translation>Введите TAKE1-адрес (например B8gZqgY4r2RoEdqYk3QsAqFckyf9pRHN6i)</translation>
     </message>
 </context>
 <context>
@@ -1977,8 +1977,8 @@ This label turns red, if the priority is smaller than &quot;medium&quot;.
     </message>
     <message>
         <location line="+21"/>
-        <source>Sign the message to prove you own this TAKE address</source>
-        <translation>Подписать сообщение, чтобы доказать владение адресом TAKE</translation>
+        <source>Sign the message to prove you own this TAKE1 address</source>
+        <translation>Подписать сообщение, чтобы доказать владение адресом TAKE1</translation>
     </message>
     <message>
         <location line="+17"/>
@@ -2009,8 +2009,8 @@ This label turns red, if the priority is smaller than &quot;medium&quot;.
     </message>
     <message>
         <location line="+40"/>
-        <source>Verify the message to ensure it was signed with the specified TAKE address</source>
-        <translation>Проверить сообщение, чтобы убедиться, что оно было подписано указанным адресом TAKE</translation>
+        <source>Verify the message to ensure it was signed with the specified TAKE1 address</source>
+        <translation>Проверить сообщение, чтобы убедиться, что оно было подписано указанным адресом TAKE1</translation>
     </message>
     <message>
         <location line="+17"/>
@@ -2020,8 +2020,8 @@ This label turns red, if the priority is smaller than &quot;medium&quot;.
     <message>
         <location filename="../signverifymessagedialog.cpp" line="+27"/>
         <location line="+3"/>
-        <source>Enter a TAKE address (e.g. B8gZqgY4r2RoEdqYk3QsAqFckyf9pRHN6i)</source>
-        <translation>Введите адрес TAKE (напр. B8gZqgY4r2RoEdqYk3QsAqFckyf9pRHN6i)</translation>
+        <source>Enter a TAKE1 address (e.g. B8gZqgY4r2RoEdqYk3QsAqFckyf9pRHN6i)</source>
+        <translation>Введите адрес TAKE1 (напр. B8gZqgY4r2RoEdqYk3QsAqFckyf9pRHN6i)</translation>
     </message>
     <message>
         <location line="-2"/>
@@ -2030,8 +2030,8 @@ This label turns red, if the priority is smaller than &quot;medium&quot;.
     </message>
     <message>
         <location line="+3"/>
-        <source>Enter TAKE signature</source>
-        <translation>Введите подпись TAKE</translation>
+        <source>Enter TAKE1 signature</source>
+        <translation>Введите подпись TAKE1</translation>
     </message>
     <message>
         <location line="+82"/>
@@ -2601,7 +2601,7 @@ This label turns red, if the priority is smaller than &quot;medium&quot;.
     <name>bitcoin-core</name>
     <message>
         <location filename="../bitcoinstrings.cpp" line="+33"/>
-        <source>TAKE version</source>
+        <source>TAKE1 version</source>
         <translation>Версия</translation>
     </message>
     <message>
@@ -2611,8 +2611,8 @@ This label turns red, if the priority is smaller than &quot;medium&quot;.
     </message>
     <message>
         <location line="+1"/>
-        <source>Send command to -server or taked</source>
-        <translation>Отправить команду на -server или taked</translation>
+        <source>Send command to -server or take1d</source>
+        <translation>Отправить команду на -server или take1d</translation>
     </message>
     <message>
         <location line="+1"/>
@@ -2632,13 +2632,13 @@ This label turns red, if the priority is smaller than &quot;medium&quot;.
     </message>
     <message>
         <location line="+2"/>
-        <source>Specify configuration file (default: take.conf)</source>
-        <translation>Указать конфигурационный файл (по умолчанию: take.conf)</translation>
+        <source>Specify configuration file (default: take1.conf)</source>
+        <translation>Указать конфигурационный файл (по умолчанию: take1.conf)</translation>
     </message>
     <message>
         <location line="+1"/>
-        <source>Specify pid file (default: taked.pid)</source>
-        <translation>Указать pid-файл (по умолчанию: taked.pid)</translation>
+        <source>Specify pid file (default: take1d.pid)</source>
+        <translation>Указать pid-файл (по умолчанию: take1d.pid)</translation>
     </message>
     <message>
         <location line="+2"/>
@@ -2787,8 +2787,8 @@ This label turns red, if the priority is smaller than &quot;medium&quot;.
     </message>
     <message>
         <location line="+61"/>
-        <source>Warning: Please check that your computer&apos;s date and time are correct! If your clock is wrong TAKE will not work properly.</source>
-        <translation>Внимание: убедитесь, что дата и время на Вашем компьютере выставлены верно. Если Ваши часы идут неправильно, TAKE будет работать некорректно.</translation>
+        <source>Warning: Please check that your computer&apos;s date and time are correct! If your clock is wrong TAKE1 will not work properly.</source>
+        <translation>Внимание: убедитесь, что дата и время на Вашем компьютере выставлены верно. Если Ваши часы идут неправильно, TAKE1 будет работать некорректно.</translation>
     </message>
     <message>
         <location line="-31"/>
@@ -2983,7 +2983,7 @@ rpcpassword=%s
 The username and password MUST NOT be the same.
 If the file does not exist, create it with owner-readable-only file permissions.
 It is also recommended to set alertnotify so you are notified of problems;
-for example: alertnotify=echo %%s | mail -s &quot;TAKE Alert&quot; admin@foo.com
+for example: alertnotify=echo %%s | mail -s &quot;TAKE1 Alert&quot; admin@foo.com
 </source>
         <translation type="unfinished"/>
     </message>
@@ -3109,13 +3109,13 @@ for example: alertnotify=echo %%s | mail -s &quot;TAKE Alert&quot; admin@foo.com
     </message>
     <message>
         <location line="+1"/>
-        <source>Cannot obtain a lock on data directory %s.  TAKE is probably already running.</source>
+        <source>Cannot obtain a lock on data directory %s.  TAKE1 is probably already running.</source>
         <translation>Невозможно установить блокировку на рабочую директорию %s.  Возможно, бумажник уже запущен.</translation>
     </message>
     <message>
         <location line="-98"/>
-        <source>TAKE</source>
-        <translation>TAKE</translation>
+        <source>TAKE1</source>
+        <translation>TAKE1</translation>
     </message>
     <message>
         <location line="+140"/>
@@ -3149,13 +3149,13 @@ for example: alertnotify=echo %%s | mail -s &quot;TAKE Alert&quot; admin@foo.com
     </message>
     <message>
         <location line="+4"/>
-        <source>Error loading wallet.dat: Wallet requires newer version of TAKE</source>
-        <translation>Ошибка загрузки wallet.dat: бумажник требует более новую версию TAKE</translation>
+        <source>Error loading wallet.dat: Wallet requires newer version of TAKE1</source>
+        <translation>Ошибка загрузки wallet.dat: бумажник требует более новую версию TAKE1</translation>
     </message>
     <message>
         <location line="+1"/>
-        <source>Wallet needed to be rewritten: restart TAKE to complete</source>
-        <translation>Необходимо перезаписать бумажник, перезапустите TAKE для завершения операции</translation>
+        <source>Wallet needed to be rewritten: restart TAKE1 to complete</source>
+        <translation>Необходимо перезаписать бумажник, перезапустите TAKE1 для завершения операции</translation>
     </message>
     <message>
         <location line="+1"/>
@@ -3224,8 +3224,8 @@ for example: alertnotify=echo %%s | mail -s &quot;TAKE Alert&quot; admin@foo.com
     </message>
     <message>
         <location line="+122"/>
-        <source>Unable to bind to %s on this computer. TAKE is probably already running.</source>
-        <translation>Невозможно привязаться к %s на этом компьютере.  Возможно, TAKE уже работает.</translation>
+        <source>Unable to bind to %s on this computer. TAKE1 is probably already running.</source>
+        <translation>Невозможно привязаться к %s на этом компьютере.  Возможно, TAKE1 уже работает.</translation>
     </message>
     <message>
         <location line="-97"/>

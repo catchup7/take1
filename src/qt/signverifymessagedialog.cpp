@@ -24,11 +24,11 @@ SignVerifyMessageDialog::SignVerifyMessageDialog(QWidget *parent) :
 
 #if (QT_VERSION >= 0x040700)
     /* Do not move this to the XML file, Qt before 4.7 will choke on it */
-    ui->addressIn_SM->setPlaceholderText(tr("Enter a TAKE address (e.g. TFDZK1QZ2G2AzbcgFRvLNq5uV7ZRNCZyU4)"));
+    ui->addressIn_SM->setPlaceholderText(tr("Enter a TAKE1 address (e.g. TFDZK1QZ2G2AzbcgFRvLNq5uV7ZRNCZyU4)"));
     ui->signatureOut_SM->setPlaceholderText(tr("Click \"Sign Message\" to generate signature"));
 
-    ui->addressIn_VM->setPlaceholderText(tr("Enter a TAKE address (e.g. TFDZK1QZ2G2AzbcgFRvLNq5uV7ZRNCZyU4)"));
-    ui->signatureIn_VM->setPlaceholderText(tr("Enter TAKE signature"));
+    ui->addressIn_VM->setPlaceholderText(tr("Enter a TAKE1 address (e.g. TFDZK1QZ2G2AzbcgFRvLNq5uV7ZRNCZyU4)"));
+    ui->signatureIn_VM->setPlaceholderText(tr("Enter TAKE1 signature"));
 #endif
 
     GUIUtil::setupAddressWidget(ui->addressIn_SM, this);

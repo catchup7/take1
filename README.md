@@ -1,5 +1,5 @@
 
-TAKE development tree
+TAKE1 development tree
 
-TAKE is a PoS-based cryptocurrency.
+TAKE1 is a PoS-based cryptocurrency.
 

@@ -128,10 +128,10 @@
        <item>
         <widget class="QCheckBox" name="bitcoinAtStartup">
          <property name="toolTip">
-          <string>Automatically start TAKE after logging in to the system.</string>
+          <string>Automatically start TAKE1 after logging in to the system.</string>
          </property>
          <property name="text">
-          <string>&amp;Start TAKE on system login</string>
+          <string>&amp;Start TAKE1 on system login</string>
          </property>
         </widget>
        </item>
@@ -158,7 +158,7 @@
        <item>
         <widget class="QCheckBox" name="mapPortUpnp">
          <property name="toolTip">
-          <string>Automatically open the TAKE client port on the router. This only works when your router supports UPnP and it is enabled.</string>
+          <string>Automatically open the TAKE1 client port on the router. This only works when your router supports UPnP and it is enabled.</string>
          </property>
          <property name="text">
           <string>Map port using &amp;UPnP</string>
@@ -168,7 +168,7 @@
        <item>
         <widget class="QCheckBox" name="connectSocks">
          <property name="toolTip">
-          <string>Connect to the TAKE network through a SOCKS proxy (e.g. when connecting through Tor).</string>
+          <string>Connect to the TAKE1 network through a SOCKS proxy (e.g. when connecting through Tor).</string>
          </property>
          <property name="text">
           <string>&amp;Connect through SOCKS proxy:</string>
@@ -342,7 +342,7 @@
          <item>
           <widget class="QValueComboBox" name="lang">
            <property name="toolTip">
-            <string>The user interface language can be set here. This setting will take effect after restarting TAKE.</string>
+            <string>The user interface language can be set here. This setting will take effect after restarting TAKE1.</string>
            </property>
           </widget>
          </item>
@@ -375,7 +375,7 @@
        <item>
         <widget class="QCheckBox" name="displayAddresses">
          <property name="toolTip">
-          <string>Whether to show TAKE addresses in the transaction list or not.</string>
+          <string>Whether to show TAKE1 addresses in the transaction list or not.</string>
          </property>
          <property name="text">
           <string>&amp;Display addresses in transaction list</string>

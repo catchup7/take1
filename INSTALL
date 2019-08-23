@@ -4,6 +4,6 @@ See doc/readme-qt.rst for instructions on building TAKE QT,
 the intended-for-end-users, nice-graphical-interface, reference
 implementation of TAKE.
 
-See doc/build-*.txt for instructions on building taked,
+See doc/build-*.txt for instructions on building take1d,
 the intended-for-services, no-graphical-interface, reference
 implementation of TAKE.

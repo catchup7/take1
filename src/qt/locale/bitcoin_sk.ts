@@ -3,22 +3,22 @@
     <name>AboutDialog</name>
     <message>
         <location filename="../forms/aboutdialog.ui" line="+14"/>
-        <source>About TAKE</source>
-        <translation>O TAKEe</translation>
+        <source>About TAKE1</source>
+        <translation>O TAKE1e</translation>
     </message>
     <message>
         <location line="+39"/>
-        <source>&lt;b&gt;TAKE&lt;/b&gt; version</source>
-        <translation>verzia &lt;b&gt;TAKEu&lt;/b&gt;</translation>
+        <source>&lt;b&gt;TAKE1&lt;/b&gt; version</source>
+        <translation>verzia &lt;b&gt;TAKE1u&lt;/b&gt;</translation>
     </message>
     <message>
         <location line="+41"/>
         <source>Copyright © 2009-2014 The Bitcoin developers
 Copyright © 2012-2014 The NovaCoin developers
-Copyright © 2014 The TAKE developers</source>
+Copyright © 2014 The TAKE1 developers</source>
         <translation>Copyright © 2009-2014 The Bitcoin developers
 Copyright © 2012-2014 The NovaCoin developers
-Copyright © 2014 The TAKE developers</translation>
+Copyright © 2014 The TAKE1 developers</translation>
     </message>
     <message>
         <location line="+15"/>
@@ -65,8 +65,8 @@ Tento produkt obsahuje softvér vyvinutý projektom OpenSSL Project pre použiti
     </message>
     <message>
         <location line="-46"/>
-        <source>These are your TAKE addresses for receiving payments. You may want to give a different one to each sender so you can keep track of who is paying you.</source>
-        <translation>Toto sú vaše TAKE adresy pre príjem platieb. Možno budete chcieť dať inú každému odosielateľovi, aby ste mohli sledovať, kto Vám platí.</translation>
+        <source>These are your TAKE1 addresses for receiving payments. You may want to give a different one to each sender so you can keep track of who is paying you.</source>
+        <translation>Toto sú vaše TAKE1 adresy pre príjem platieb. Možno budete chcieť dať inú každému odosielateľovi, aby ste mohli sledovať, kto Vám platí.</translation>
     </message>
     <message>
         <location line="+60"/>
@@ -80,8 +80,8 @@ Tento produkt obsahuje softvér vyvinutý projektom OpenSSL Project pre použiti
     </message>
     <message>
         <location line="+11"/>
-        <source>Sign a message to prove you own a TAKE address</source>
-        <translation>Podpísať správu ako dôkaz, že vlastníte túto TAKE adresu</translation>
+        <source>Sign a message to prove you own a TAKE1 address</source>
+        <translation>Podpísať správu ako dôkaz, že vlastníte túto TAKE1 adresu</translation>
     </message>
     <message>
         <location line="+3"/>
@@ -95,8 +95,8 @@ Tento produkt obsahuje softvér vyvinutý projektom OpenSSL Project pre použiti
     </message>
     <message>
         <location line="-14"/>
-        <source>Verify a message to ensure it was signed with a specified TAKE address</source>
-        <translation>Overte správu, aby ste zabezpečili, že bola podpísaná s určitou TAKE adresou</translation>
+        <source>Verify a message to ensure it was signed with a specified TAKE1 address</source>
+        <translation>Overte správu, aby ste zabezpečili, že bola podpísaná s určitou TAKE1 adresou</translation>
     </message>
     <message>
         <location line="+3"/>
@@ -263,8 +263,8 @@ Tento produkt obsahuje softvér vyvinutý projektom OpenSSL Project pre použiti
     </message>
     <message>
         <location line="-58"/>
-        <source>TAKE will close now to finish the encryption process. Remember that encrypting your wallet cannot fully protect your coins from being stolen by malware infecting your computer.</source>
-        <translation>TAKE sa teraz zavrie aby dokončil proces zašifrovania. Nezabudnite, že zašifrovanie vašej peňaženky nemôže plne chrániť vaše mince pred krádežou malwarom napadnutím vašeho počítača.</translation>
+        <source>TAKE1 will close now to finish the encryption process. Remember that encrypting your wallet cannot fully protect your coins from being stolen by malware infecting your computer.</source>
+        <translation>TAKE1 sa teraz zavrie aby dokončil proces zašifrovania. Nezabudnite, že zašifrovanie vašej peňaženky nemôže plne chrániť vaše mince pred krádežou malwarom napadnutím vašeho počítača.</translation>
     </message>
     <message>
         <location line="+13"/>
@@ -377,8 +377,8 @@ Tento produkt obsahuje softvér vyvinutý projektom OpenSSL Project pre použiti
     </message>
     <message>
         <location line="+4"/>
-        <source>Show information about TAKE</source>
-        <translation>Zobraziť informácie o TAKE</translation>
+        <source>Show information about TAKE1</source>
+        <translation>Zobraziť informácie o TAKE1</translation>
     </message>
     <message>
         <location line="+2"/>
@@ -427,13 +427,13 @@ Tento produkt obsahuje softvér vyvinutý projektom OpenSSL Project pre použiti
     </message>
     <message>
         <location line="-62"/>
-        <source>Send coins to a TAKE address</source>
-        <translation>Poslať mince na TAKE adresu</translation>
+        <source>Send coins to a TAKE1 address</source>
+        <translation>Poslať mince na TAKE1 adresu</translation>
     </message>
     <message>
         <location line="+45"/>
-        <source>Modify configuration options for TAKE</source>
-        <translation>Upraviť možnosti konfigurácie pre TAKE</translation>
+        <source>Modify configuration options for TAKE1</source>
+        <translation>Upraviť možnosti konfigurácie pre TAKE1</translation>
     </message>
     <message>
         <location line="+18"/>
@@ -472,8 +472,8 @@ Tento produkt obsahuje softvér vyvinutý projektom OpenSSL Project pre použiti
     </message>
     <message>
         <location line="-200"/>
-        <source>TAKE</source>
-        <translation>TAKE</translation>
+        <source>TAKE1</source>
+        <translation>TAKE1</translation>
     </message>
     <message>
         <location line="+0"/>
@@ -482,8 +482,8 @@ Tento produkt obsahuje softvér vyvinutý projektom OpenSSL Project pre použiti
     </message>
     <message>
         <location line="+178"/>
-        <source>&amp;About TAKE</source>
-        <translation>&amp;O TAKE</translation>
+        <source>&amp;About TAKE1</source>
+        <translation>&amp;O TAKE1</translation>
     </message>
     <message>
         <location line="+9"/>
@@ -539,13 +539,13 @@ Tento produkt obsahuje softvér vyvinutý projektom OpenSSL Project pre použiti
     <message>
         <location line="+0"/>
         <location line="+60"/>
-        <source>TAKE client</source>
-        <translation>TAKE klient</translation>
+        <source>TAKE1 client</source>
+        <translation>TAKE1 klient</translation>
     </message>
     <message numerus="yes">
         <location line="+70"/>
-        <source>%n active connection(s) to TAKE network</source>
-        <translation><numerusform>%n aktívne spojenie s TAKE sieťov</numerusform><numerusform>%n aktívnych spojení s TAKE sieťov</numerusform><numerusform>%n aktívnych spojení s TAKE sieťou</numerusform></translation>
+        <source>%n active connection(s) to TAKE1 network</source>
+        <translation><numerusform>%n aktívne spojenie s TAKE1 sieťov</numerusform><numerusform>%n aktívnych spojení s TAKE1 sieťov</numerusform><numerusform>%n aktívnych spojení s TAKE1 sieťou</numerusform></translation>
     </message>
     <message>
         <location line="+40"/>
@@ -658,8 +658,8 @@ Adresa: %4</translation>
     <message>
         <location line="-15"/>
         <location line="+15"/>
-        <source>URI can not be parsed! This can be caused by an invalid TAKE address or malformed URI parameters.</source>
-        <translation>URI nemožno analyzovať! Toto môže byť spôsobené neplatnou TAKE adresu alebo chybnými URI parametrami.</translation>
+        <source>URI can not be parsed! This can be caused by an invalid TAKE1 address or malformed URI parameters.</source>
+        <translation>URI nemožno analyzovať! Toto môže byť spôsobené neplatnou TAKE1 adresu alebo chybnými URI parametrami.</translation>
     </message>
     <message>
         <location line="+18"/>
@@ -718,8 +718,8 @@ Adresa: %4</translation>
     </message>
     <message>
         <location filename="../bitcoin.cpp" line="+109"/>
-        <source>A fatal error occurred. TAKE can no longer continue safely and will quit.</source>
-        <translation>Došlo k závažnej chybe. TAKE už nemôže pokračovať bezpečne a bude ukončený.</translation>
+        <source>A fatal error occurred. TAKE1 can no longer continue safely and will quit.</source>
+        <translation>Došlo k závažnej chybe. TAKE1 už nemôže pokračovať bezpečne a bude ukončený.</translation>
     </message>
 </context>
 <context>
@@ -1052,8 +1052,8 @@ To znamená, že je potrebný poplatok aspoň %2.</translation>
     </message>
     <message>
         <location line="-5"/>
-        <source>The entered address &quot;%1&quot; is not a valid TAKE address.</source>
-        <translation>Zadaná adresa &quot;%1&quot; nie je platnou TAKE adresou.</translation>
+        <source>The entered address &quot;%1&quot; is not a valid TAKE1 address.</source>
+        <translation>Zadaná adresa &quot;%1&quot; nie je platnou TAKE1 adresou.</translation>
     </message>
     <message>
         <location line="+10"/>
@@ -1071,8 +1071,8 @@ To znamená, že je potrebný poplatok aspoň %2.</translation>
     <message>
         <location filename="../guiutil.cpp" line="+420"/>
         <location line="+12"/>
-        <source>TAKE-Qt</source>
-        <translation>TAKE-Qt</translation>
+        <source>TAKE1-Qt</source>
+        <translation>TAKE1-Qt</translation>
     </message>
     <message>
         <location line="-12"/>
@@ -1144,13 +1144,13 @@ To znamená, že je potrebný poplatok aspoň %2.</translation>
     </message>
     <message>
         <location line="+31"/>
-        <source>Automatically start TAKE after logging in to the system.</source>
-        <translation>Automaticky spustiť TAKE po prihlásení sa do systému.</translation>
+        <source>Automatically start TAKE1 after logging in to the system.</source>
+        <translation>Automaticky spustiť TAKE1 po prihlásení sa do systému.</translation>
     </message>
     <message>
         <location line="+3"/>
-        <source>&amp;Start TAKE on system login</source>
-        <translation>&amp;Spustiť TAKE pri prihlásení do systému</translation>
+        <source>&amp;Start TAKE1 on system login</source>
+        <translation>&amp;Spustiť TAKE1 pri prihlásení do systému</translation>
     </message>
     <message>
         <location line="+7"/>
@@ -1169,8 +1169,8 @@ To znamená, že je potrebný poplatok aspoň %2.</translation>
     </message>
     <message>
         <location line="+6"/>
-        <source>Automatically open the TAKE client port on the router. This only works when your router supports UPnP and it is enabled.</source>
-        <translation>Automaticky otvoriť port klienta TAKE na routeri. To funguje iba vtedy, ak váš router podporuje UPnP a je povolené.</translation>
+        <source>Automatically open the TAKE1 client port on the router. This only works when your router supports UPnP and it is enabled.</source>
+        <translation>Automaticky otvoriť port klienta TAKE1 na routeri. To funguje iba vtedy, ak váš router podporuje UPnP a je povolené.</translation>
     </message>
     <message>
         <location line="+3"/>
@@ -1179,8 +1179,8 @@ To znamená, že je potrebný poplatok aspoň %2.</translation>
     </message>
     <message>
         <location line="+7"/>
-        <source>Connect to the TAKE network through a SOCKS proxy (e.g. when connecting through Tor).</source>
-        <translation>Pripojenie k sieti TAKE cez SOCKS proxy server (napr. pri pripojení cez Tor).</translation>
+        <source>Connect to the TAKE1 network through a SOCKS proxy (e.g. when connecting through Tor).</source>
+        <translation>Pripojenie k sieti TAKE1 cez SOCKS proxy server (napr. pri pripojení cez Tor).</translation>
     </message>
     <message>
         <location line="+3"/>
@@ -1254,8 +1254,8 @@ To znamená, že je potrebný poplatok aspoň %2.</translation>
     </message>
     <message>
         <location line="+13"/>
-        <source>The user interface language can be set here. This setting will take effect after restarting TAKE.</source>
-        <translation>Tu môžete nastaviť jazyk používateľského rozhrania. Toto nastavenie sa prejaví až po reštartovaní TAKE.</translation>
+        <source>The user interface language can be set here. This setting will take effect after restarting TAKE1.</source>
+        <translation>Tu môžete nastaviť jazyk používateľského rozhrania. Toto nastavenie sa prejaví až po reštartovaní TAKE1.</translation>
     </message>
     <message>
         <location line="+11"/>
@@ -1269,8 +1269,8 @@ To znamená, že je potrebný poplatok aspoň %2.</translation>
     </message>
     <message>
         <location line="+9"/>
-        <source>Whether to show TAKE addresses in the transaction list or not.</source>
-        <translation>Či chcete zobraziť TAKE adresy v zozname transakcií alebo nie.</translation>
+        <source>Whether to show TAKE1 addresses in the transaction list or not.</source>
+        <translation>Či chcete zobraziť TAKE1 adresy v zozname transakcií alebo nie.</translation>
     </message>
     <message>
         <location line="+3"/>
@@ -1316,8 +1316,8 @@ To znamená, že je potrebný poplatok aspoň %2.</translation>
     <message>
         <location line="-9"/>
         <location line="+9"/>
-        <source>This setting will take effect after restarting TAKE.</source>
-        <translation>Toto nastavenie sa prejaví až po reštartovaní TAKE.</translation>
+        <source>This setting will take effect after restarting TAKE1.</source>
+        <translation>Toto nastavenie sa prejaví až po reštartovaní TAKE1.</translation>
     </message>
     <message>
         <location line="+29"/>
@@ -1335,8 +1335,8 @@ To znamená, že je potrebný poplatok aspoň %2.</translation>
     <message>
         <location line="+33"/>
         <location line="+231"/>
-        <source>The displayed information may be out of date. Your wallet automatically synchronizes with the TAKE network after a connection is established, but this process has not completed yet.</source>
-        <translation>Zobrazené informácie môžu byť zastaralé. Vaša peňaženka sa automaticky synchronizuje so sieťou TAKE po nadviazaní spojenia, ale tento proces nie je ešte dokončený.</translation>
+        <source>The displayed information may be out of date. Your wallet automatically synchronizes with the TAKE1 network after a connection is established, but this process has not completed yet.</source>
+        <translation>Zobrazené informácie môžu byť zastaralé. Vaša peňaženka sa automaticky synchronizuje so sieťou TAKE1 po nadviazaní spojenia, ale tento proces nie je ešte dokončený.</translation>
     </message>
     <message>
         <location line="-160"/>
@@ -1551,8 +1551,8 @@ To znamená, že je potrebný poplatok aspoň %2.</translation>
     </message>
     <message>
         <location line="+7"/>
-        <source>Show the TAKE-Qt help message to get a list with possible TAKE command-line options.</source>
-        <translation>Zobraziť TAKE-Qt nápovedu k získaniu zoznamu pre možnosti  príkazového riadku TAKE.</translation>
+        <source>Show the TAKE1-Qt help message to get a list with possible TAKE1 command-line options.</source>
+        <translation>Zobraziť TAKE1-Qt nápovedu k získaniu zoznamu pre možnosti  príkazového riadku TAKE1.</translation>
     </message>
     <message>
         <location line="+3"/>
@@ -1571,13 +1571,13 @@ To znamená, že je potrebný poplatok aspoň %2.</translation>
     </message>
     <message>
         <location line="-104"/>
-        <source>TAKE - Debug window</source>
-        <translation>TAKE - Ladiace okno</translation>
+        <source>TAKE1 - Debug window</source>
+        <translation>TAKE1 - Ladiace okno</translation>
     </message>
     <message>
         <location line="+25"/>
-        <source>TAKE Core</source>
-        <translation>Jadro TAKE</translation>
+        <source>TAKE1 Core</source>
+        <translation>Jadro TAKE1</translation>
     </message>
     <message>
         <location line="+279"/>
@@ -1586,8 +1586,8 @@ To znamená, že je potrebný poplatok aspoň %2.</translation>
     </message>
     <message>
         <location line="+7"/>
-        <source>Open the TAKE debug log file from the current data directory. This can take a few seconds for large log files.</source>
-        <translation>Otvorte TAKE súbor denníku ladenia z aktuálneho adresára dát. To môže trvať niekoľko sekúnd pre veľké súbory denníka.</translation>
+        <source>Open the TAKE1 debug log file from the current data directory. This can take a few seconds for large log files.</source>
+        <translation>Otvorte TAKE1 súbor denníku ladenia z aktuálneho adresára dát. To môže trvať niekoľko sekúnd pre veľké súbory denníka.</translation>
     </message>
     <message>
         <location line="+102"/>
@@ -1596,8 +1596,8 @@ To znamená, že je potrebný poplatok aspoň %2.</translation>
     </message>
     <message>
         <location filename="../rpcconsole.cpp" line="-33"/>
-        <source>Welcome to the TAKE RPC console.</source>
-        <translation>Vitajte v konzole TAKE RPC.</translation>
+        <source>Welcome to the TAKE1 RPC console.</source>
+        <translation>Vitajte v konzole TAKE1 RPC.</translation>
     </message>
     <message>
         <location line="+1"/>
@@ -1755,8 +1755,8 @@ To znamená, že je potrebný poplatok aspoň %2.</translation>
     </message>
     <message>
         <location filename="../sendcoinsdialog.cpp" line="-173"/>
-        <source>Enter a TAKE address (e.g. B8gZqgY4r2RoEdqYk3QsAqFckyf9pRHN6i)</source>
-        <translation>Zadajte TAKE adresu (napr. B8gZqgY4r2RoEdqYk3QsAqFckyf9pRHN6i)</translation>
+        <source>Enter a TAKE1 address (e.g. B8gZqgY4r2RoEdqYk3QsAqFckyf9pRHN6i)</source>
+        <translation>Zadajte TAKE1 adresu (napr. B8gZqgY4r2RoEdqYk3QsAqFckyf9pRHN6i)</translation>
     </message>
     <message>
         <location line="+15"/>
@@ -1855,8 +1855,8 @@ To znamená, že je potrebný poplatok aspoň %2.</translation>
     </message>
     <message>
         <location line="+251"/>
-        <source>WARNING: Invalid TAKE address</source>
-        <translation>UPOZORNENIE: Neplatná TAKE adresa</translation>
+        <source>WARNING: Invalid TAKE1 address</source>
+        <translation>UPOZORNENIE: Neplatná TAKE1 adresa</translation>
     </message>
     <message>
         <location line="+13"/>
@@ -1929,8 +1929,8 @@ To znamená, že je potrebný poplatok aspoň %2.</translation>
     </message>
     <message>
         <location filename="../sendcoinsentry.cpp" line="+1"/>
-        <source>Enter a TAKE address (e.g. B8gZqgY4r2RoEdqYk3QsAqFckyf9pRHN6i)</source>
-        <translation>Zadajte TAKE adresu (napr. B8gZqgY4r2RoEdqYk3QsAqFckyf9pRHN6i)</translation>
+        <source>Enter a TAKE1 address (e.g. B8gZqgY4r2RoEdqYk3QsAqFckyf9pRHN6i)</source>
+        <translation>Zadajte TAKE1 adresu (napr. B8gZqgY4r2RoEdqYk3QsAqFckyf9pRHN6i)</translation>
     </message>
 </context>
 <context>
@@ -1990,8 +1990,8 @@ To znamená, že je potrebný poplatok aspoň %2.</translation>
     </message>
     <message>
         <location line="+21"/>
-        <source>Sign the message to prove you own this TAKE address</source>
-        <translation>Podpísať správu ako dôkaz, že vlastníte túto TAKE adresu</translation>
+        <source>Sign the message to prove you own this TAKE1 address</source>
+        <translation>Podpísať správu ako dôkaz, že vlastníte túto TAKE1 adresu</translation>
     </message>
     <message>
         <location line="+17"/>
@@ -2022,8 +2022,8 @@ To znamená, že je potrebný poplatok aspoň %2.</translation>
     </message>
     <message>
         <location line="+40"/>
-        <source>Verify the message to ensure it was signed with the specified TAKE address</source>
-        <translation>Overte správu, aby ste sa ubezpečili, že bola podpísaná s danou TAKE adresou</translation>
+        <source>Verify the message to ensure it was signed with the specified TAKE1 address</source>
+        <translation>Overte správu, aby ste sa ubezpečili, že bola podpísaná s danou TAKE1 adresou</translation>
     </message>
     <message>
         <location line="+17"/>
@@ -2033,8 +2033,8 @@ To znamená, že je potrebný poplatok aspoň %2.</translation>
     <message>
         <location filename="../signverifymessagedialog.cpp" line="+27"/>
         <location line="+3"/>
-        <source>Enter a TAKE address (e.g. B8gZqgY4r2RoEdqYk3QsAqFckyf9pRHN6i)</source>
-        <translation>Zadajte TAKE adresu (napr. B8gZqgY4r2RoEdqYk3QsAqFckyf9pRHN6i)</translation>
+        <source>Enter a TAKE1 address (e.g. B8gZqgY4r2RoEdqYk3QsAqFckyf9pRHN6i)</source>
+        <translation>Zadajte TAKE1 adresu (napr. B8gZqgY4r2RoEdqYk3QsAqFckyf9pRHN6i)</translation>
     </message>
     <message>
         <location line="-2"/>
@@ -2043,8 +2043,8 @@ To znamená, že je potrebný poplatok aspoň %2.</translation>
     </message>
     <message>
         <location line="+3"/>
-        <source>Enter TAKE signature</source>
-        <translation>Zadajte TAKE podpis</translation>
+        <source>Enter TAKE1 signature</source>
+        <translation>Zadajte TAKE1 podpis</translation>
     </message>
     <message>
         <location line="+82"/>
@@ -2614,8 +2614,8 @@ To znamená, že je potrebný poplatok aspoň %2.</translation>
     <name>bitcoin-core</name>
     <message>
         <location filename="../bitcoinstrings.cpp" line="+33"/>
-        <source>TAKE version</source>
-        <translation>TAKE verzia</translation>
+        <source>TAKE1 version</source>
+        <translation>TAKE1 verzia</translation>
     </message>
     <message>
         <location line="+1"/>
@@ -2624,8 +2624,8 @@ To znamená, že je potrebný poplatok aspoň %2.</translation>
     </message>
     <message>
         <location line="+1"/>
-        <source>Send command to -server or taked</source>
-        <translation>Pošli príkaz na -server alebo taked</translation>
+        <source>Send command to -server or take1d</source>
+        <translation>Pošli príkaz na -server alebo take1d</translation>
     </message>
     <message>
         <location line="+1"/>
@@ -2644,13 +2644,13 @@ To znamená, že je potrebný poplatok aspoň %2.</translation>
     </message>
     <message>
         <location line="+2"/>
-        <source>Specify configuration file (default: take.conf)</source>
-        <translation>Zadajte konfiguračný súbor (predvolené: take.conf)</translation>
+        <source>Specify configuration file (default: take1.conf)</source>
+        <translation>Zadajte konfiguračný súbor (predvolené: take1.conf)</translation>
     </message>
     <message>
         <location line="+1"/>
-        <source>Specify pid file (default: taked.pid)</source>
-        <translation>Zadajte pid súbor (predvolené: taked.pid)</translation>
+        <source>Specify pid file (default: take1d.pid)</source>
+        <translation>Zadajte pid súbor (predvolené: take1d.pid)</translation>
     </message>
     <message>
         <location line="+2"/>
@@ -2799,8 +2799,8 @@ To znamená, že je potrebný poplatok aspoň %2.</translation>
     </message>
     <message>
         <location line="+61"/>
-        <source>Warning: Please check that your computer&apos;s date and time are correct! If your clock is wrong TAKE will not work properly.</source>
-        <translation>Upozornenie: Skontrolujte, že dátum a čas počítača sú správne! Ak je Váš čas nesprávny TAKE nebude pracovať správne.</translation>
+        <source>Warning: Please check that your computer&apos;s date and time are correct! If your clock is wrong TAKE1 will not work properly.</source>
+        <translation>Upozornenie: Skontrolujte, že dátum a čas počítača sú správne! Ak je Váš čas nesprávny TAKE1 nebude pracovať správne.</translation>
     </message>
     <message>
         <location line="-31"/>
@@ -2995,7 +2995,7 @@ rpcpassword=%s
 The username and password MUST NOT be the same.
 If the file does not exist, create it with owner-readable-only file permissions.
 It is also recommended to set alertnotify so you are notified of problems;
-for example: alertnotify=echo %%s | mail -s &quot;TAKE Alert&quot; admin@foo.com
+for example: alertnotify=echo %%s | mail -s &quot;TAKE1 Alert&quot; admin@foo.com
 </source>
         <translation>%s, musíte nastaviť rpcpassword v konfiguračnom súbore:
  %s
@@ -3006,7 +3006,7 @@ rpcpassword=%s
 Užívateľské meno a heslo nesmú byť rovnaké. 
 Ak súbor neexistuje, vytvorte ho s oprávneniami súborov vlastníkov iba na čítatanie.
 Odporúča sa tiež nastaviť alertnotify, takže budete upozornení na problémy;
-napríklad: alertnotify=echo %%s | mail -s &quot;TAKE Alert&quot; admin@foo.com</translation>
+napríklad: alertnotify=echo %%s | mail -s &quot;TAKE1 Alert&quot; admin@foo.com</translation>
     </message>
     <message>
         <location line="+51"/>
@@ -3130,13 +3130,13 @@ napríklad: alertnotify=echo %%s | mail -s &quot;TAKE Alert&quot; admin@foo.com<
     </message>
     <message>
         <location line="+1"/>
-        <source>Cannot obtain a lock on data directory %s.  TAKE is probably already running.</source>
-        <translation>Nemožno získať zámok na dátový adresár %s. TAKE už pravdepodobne beží.</translation>
+        <source>Cannot obtain a lock on data directory %s.  TAKE1 is probably already running.</source>
+        <translation>Nemožno získať zámok na dátový adresár %s. TAKE1 už pravdepodobne beží.</translation>
     </message>
     <message>
         <location line="-98"/>
-        <source>TAKE</source>
-        <translation>TAKE</translation>
+        <source>TAKE1</source>
+        <translation>TAKE1</translation>
     </message>
     <message>
         <location line="+140"/>
@@ -3170,13 +3170,13 @@ napríklad: alertnotify=echo %%s | mail -s &quot;TAKE Alert&quot; admin@foo.com<
     </message>
     <message>
         <location line="+4"/>
-        <source>Error loading wallet.dat: Wallet requires newer version of TAKE</source>
-        <translation>Chyba pri načítaní wallet.dat: Peňaženka vyžaduje novšiu verziu TAKE</translation>
+        <source>Error loading wallet.dat: Wallet requires newer version of TAKE1</source>
+        <translation>Chyba pri načítaní wallet.dat: Peňaženka vyžaduje novšiu verziu TAKE1</translation>
     </message>
     <message>
         <location line="+1"/>
-        <source>Wallet needed to be rewritten: restart TAKE to complete</source>
-        <translation>Peňaženka potrebuje byť prepísaná: reštartujte TAKE k dokončeniu</translation>
+        <source>Wallet needed to be rewritten: restart TAKE1 to complete</source>
+        <translation>Peňaženka potrebuje byť prepísaná: reštartujte TAKE1 k dokončeniu</translation>
     </message>
     <message>
         <location line="+1"/>
@@ -3245,8 +3245,8 @@ napríklad: alertnotify=echo %%s | mail -s &quot;TAKE Alert&quot; admin@foo.com<
     </message>
     <message>
         <location line="+122"/>
-        <source>Unable to bind to %s on this computer. TAKE is probably already running.</source>
-        <translation>Nemôžem sa pripojiť na %s na tomto počítači. TAKE je pravdepodobne už beží.</translation>
+        <source>Unable to bind to %s on this computer. TAKE1 is probably already running.</source>
+        <translation>Nemôžem sa pripojiť na %s na tomto počítači. TAKE1 je pravdepodobne už beží.</translation>
     </message>
     <message>
         <location line="-97"/>

@@ -3,19 +3,19 @@
     <name>AboutDialog</name>
     <message>
         <location filename="../forms/aboutdialog.ui" line="+14"/>
-        <source>About TAKE</source>
-        <translation>Om TAKE</translation>
+        <source>About TAKE1</source>
+        <translation>Om TAKE1</translation>
     </message>
     <message>
         <location line="+39"/>
-        <source>&lt;b&gt;TAKE&lt;/b&gt; version</source>
-        <translation>&lt;b&gt;TAKE&lt;/b&gt; versjon</translation>
+        <source>&lt;b&gt;TAKE1&lt;/b&gt; version</source>
+        <translation>&lt;b&gt;TAKE1&lt;/b&gt; versjon</translation>
     </message>
     <message>
         <location line="+41"/>
         <source>Copyright © 2009-2014 The Bitcoin developers
 Copyright © 2012-2014 The NovaCoin developers
-Copyright © 2014 The TAKE developers</source>
+Copyright © 2014 The TAKE1 developers</source>
         <translation type="unfinished"/>
     </message>
     <message>
@@ -63,7 +63,7 @@ Dette produktet inneholder programvare utviklet av OpenSSL prosjektet for bruk i
     </message>
     <message>
         <location line="-46"/>
-        <source>These are your TAKE addresses for receiving payments. You may want to give a different one to each sender so you can keep track of who is paying you.</source>
+        <source>These are your TAKE1 addresses for receiving payments. You may want to give a different one to each sender so you can keep track of who is paying you.</source>
         <translation>Dette er adressene for å motta betalinger. Du ønsker kanskje å gi ulike adresser til hver avsender så du lettere kan holde øye med hvem som betaler deg.</translation>
     </message>
     <message>
@@ -78,8 +78,8 @@ Dette produktet inneholder programvare utviklet av OpenSSL prosjektet for bruk i
     </message>
     <message>
         <location line="+11"/>
-        <source>Sign a message to prove you own a TAKE address</source>
-        <translation>Signer en melding for å bevise din egen TAKE adresse.</translation>
+        <source>Sign a message to prove you own a TAKE1 address</source>
+        <translation>Signer en melding for å bevise din egen TAKE1 adresse.</translation>
     </message>
     <message>
         <location line="+3"/>
@@ -93,8 +93,8 @@ Dette produktet inneholder programvare utviklet av OpenSSL prosjektet for bruk i
     </message>
     <message>
         <location line="-14"/>
-        <source>Verify a message to ensure it was signed with a specified TAKE address</source>
-        <translation>Verifiser en melding får å forsikre deg om at den er signert med en spesifikk TAKE adresse</translation>
+        <source>Verify a message to ensure it was signed with a specified TAKE1 address</source>
+        <translation>Verifiser en melding får å forsikre deg om at den er signert med en spesifikk TAKE1 adresse</translation>
     </message>
     <message>
         <location line="+3"/>
@@ -261,7 +261,7 @@ Dette produktet inneholder programvare utviklet av OpenSSL prosjektet for bruk i
     </message>
     <message>
         <location line="-58"/>
-        <source>TAKE will close now to finish the encryption process. Remember that encrypting your wallet cannot fully protect your coins from being stolen by malware infecting your computer.</source>
+        <source>TAKE1 will close now to finish the encryption process. Remember that encrypting your wallet cannot fully protect your coins from being stolen by malware infecting your computer.</source>
         <translation type="unfinished"/>
     </message>
     <message>
@@ -375,8 +375,8 @@ Dette produktet inneholder programvare utviklet av OpenSSL prosjektet for bruk i
     </message>
     <message>
         <location line="+4"/>
-        <source>Show information about TAKE</source>
-        <translation>Vis info om TAKE</translation>
+        <source>Show information about TAKE1</source>
+        <translation>Vis info om TAKE1</translation>
     </message>
     <message>
         <location line="+2"/>
@@ -425,13 +425,13 @@ Dette produktet inneholder programvare utviklet av OpenSSL prosjektet for bruk i
     </message>
     <message>
         <location line="-62"/>
-        <source>Send coins to a TAKE address</source>
-        <translation>Send coins til en TAKE adresse</translation>
+        <source>Send coins to a TAKE1 address</source>
+        <translation>Send coins til en TAKE1 adresse</translation>
     </message>
     <message>
         <location line="+45"/>
-        <source>Modify configuration options for TAKE</source>
-        <translation>Endre innstillingene til TAKE</translation>
+        <source>Modify configuration options for TAKE1</source>
+        <translation>Endre innstillingene til TAKE1</translation>
     </message>
     <message>
         <location line="+18"/>
@@ -470,8 +470,8 @@ Dette produktet inneholder programvare utviklet av OpenSSL prosjektet for bruk i
     </message>
     <message>
         <location line="-200"/>
-        <source>TAKE</source>
-        <translation>TAKE</translation>
+        <source>TAKE1</source>
+        <translation>TAKE1</translation>
     </message>
     <message>
         <location line="+0"/>
@@ -480,8 +480,8 @@ Dette produktet inneholder programvare utviklet av OpenSSL prosjektet for bruk i
     </message>
     <message>
         <location line="+178"/>
-        <source>&amp;About TAKE</source>
-        <translation>&amp;Om TAKE</translation>
+        <source>&amp;About TAKE1</source>
+        <translation>&amp;Om TAKE1</translation>
     </message>
     <message>
         <location line="+9"/>
@@ -537,13 +537,13 @@ Dette produktet inneholder programvare utviklet av OpenSSL prosjektet for bruk i
     <message>
         <location line="+0"/>
         <location line="+60"/>
-        <source>TAKE client</source>
-        <translation>TAKE klient</translation>
+        <source>TAKE1 client</source>
+        <translation>TAKE1 klient</translation>
     </message>
     <message numerus="yes">
         <location line="+70"/>
-        <source>%n active connection(s) to TAKE network</source>
-        <translation><numerusform>%n aktiv tilkobling til TAKE nettverket</numerusform><numerusform>%n aktive tilkoblinger til TAKE nettverket</numerusform></translation>
+        <source>%n active connection(s) to TAKE1 network</source>
+        <translation><numerusform>%n aktiv tilkobling til TAKE1 nettverket</numerusform><numerusform>%n aktive tilkoblinger til TAKE1 nettverket</numerusform></translation>
     </message>
     <message>
         <location line="+40"/>
@@ -657,7 +657,7 @@ Adresse: %4
     <message>
         <location line="-15"/>
         <location line="+15"/>
-        <source>URI can not be parsed! This can be caused by an invalid TAKE address or malformed URI parameters.</source>
+        <source>URI can not be parsed! This can be caused by an invalid TAKE1 address or malformed URI parameters.</source>
         <translation type="unfinished"/>
     </message>
     <message>
@@ -717,7 +717,7 @@ Adresse: %4
     </message>
     <message>
         <location filename="../bitcoin.cpp" line="+109"/>
-        <source>A fatal error occurred. TAKE can no longer continue safely and will quit.</source>
+        <source>A fatal error occurred. TAKE1 can no longer continue safely and will quit.</source>
         <translation type="unfinished"/>
     </message>
 </context>
@@ -1039,8 +1039,8 @@ Dette betyr at det trengs en avgift på minimum %2.</translation>
     </message>
     <message>
         <location line="-5"/>
-        <source>The entered address &quot;%1&quot; is not a valid TAKE address.</source>
-        <translation>Den angitte adressen &quot;%1&quot; er ikke en gyldig TAKE adresse.</translation>
+        <source>The entered address &quot;%1&quot; is not a valid TAKE1 address.</source>
+        <translation>Den angitte adressen &quot;%1&quot; er ikke en gyldig TAKE1 adresse.</translation>
     </message>
     <message>
         <location line="+10"/>
@@ -1058,8 +1058,8 @@ Dette betyr at det trengs en avgift på minimum %2.</translation>
     <message>
         <location filename="../guiutil.cpp" line="+420"/>
         <location line="+12"/>
-        <source>TAKE-Qt</source>
-        <translation>TAKE-Qt</translation>
+        <source>TAKE1-Qt</source>
+        <translation>TAKE1-Qt</translation>
     </message>
     <message>
         <location line="-12"/>
@@ -1131,13 +1131,13 @@ Dette betyr at det trengs en avgift på minimum %2.</translation>
     </message>
     <message>
         <location line="+31"/>
-        <source>Automatically start TAKE after logging in to the system.</source>
+        <source>Automatically start TAKE1 after logging in to the system.</source>
         <translation type="unfinished"/>
     </message>
     <message>
         <location line="+3"/>
-        <source>&amp;Start TAKE on system login</source>
-        <translation>&amp;Start TAKE ved innlogging</translation>
+        <source>&amp;Start TAKE1 on system login</source>
+        <translation>&amp;Start TAKE1 ved innlogging</translation>
     </message>
     <message>
         <location line="+7"/>
@@ -1156,7 +1156,7 @@ Dette betyr at det trengs en avgift på minimum %2.</translation>
     </message>
     <message>
         <location line="+6"/>
-        <source>Automatically open the TAKE client port on the router. This only works when your router supports UPnP and it is enabled.</source>
+        <source>Automatically open the TAKE1 client port on the router. This only works when your router supports UPnP and it is enabled.</source>
         <translation type="unfinished"/>
     </message>
     <message>
@@ -1166,7 +1166,7 @@ Dette betyr at det trengs en avgift på minimum %2.</translation>
     </message>
     <message>
         <location line="+7"/>
-        <source>Connect to the TAKE network through a SOCKS proxy (e.g. when connecting through Tor).</source>
+        <source>Connect to the TAKE1 network through a SOCKS proxy (e.g. when connecting through Tor).</source>
         <translation type="unfinished"/>
     </message>
     <message>
@@ -1241,7 +1241,7 @@ Dette betyr at det trengs en avgift på minimum %2.</translation>
     </message>
     <message>
         <location line="+13"/>
-        <source>The user interface language can be set here. This setting will take effect after restarting TAKE.</source>
+        <source>The user interface language can be set here. This setting will take effect after restarting TAKE1.</source>
         <translation type="unfinished"/>
     </message>
     <message>
@@ -1256,7 +1256,7 @@ Dette betyr at det trengs en avgift på minimum %2.</translation>
     </message>
     <message>
         <location line="+9"/>
-        <source>Whether to show TAKE addresses in the transaction list or not.</source>
+        <source>Whether to show TAKE1 addresses in the transaction list or not.</source>
         <translation type="unfinished"/>
     </message>
     <message>
@@ -1303,7 +1303,7 @@ Dette betyr at det trengs en avgift på minimum %2.</translation>
     <message>
         <location line="-9"/>
         <location line="+9"/>
-        <source>This setting will take effect after restarting TAKE.</source>
+        <source>This setting will take effect after restarting TAKE1.</source>
         <translation type="unfinished"/>
     </message>
     <message>
@@ -1322,7 +1322,7 @@ Dette betyr at det trengs en avgift på minimum %2.</translation>
     <message>
         <location line="+33"/>
         <location line="+231"/>
-        <source>The displayed information may be out of date. Your wallet automatically synchronizes with the TAKE network after a connection is established, but this process has not completed yet.</source>
+        <source>The displayed information may be out of date. Your wallet automatically synchronizes with the TAKE1 network after a connection is established, but this process has not completed yet.</source>
         <translation type="unfinished"/>
     </message>
     <message>
@@ -1538,7 +1538,7 @@ Dette betyr at det trengs en avgift på minimum %2.</translation>
     </message>
     <message>
         <location line="+7"/>
-        <source>Show the TAKE-Qt help message to get a list with possible TAKE command-line options.</source>
+        <source>Show the TAKE1-Qt help message to get a list with possible TAKE1 command-line options.</source>
         <translation type="unfinished"/>
     </message>
     <message>
@@ -1558,12 +1558,12 @@ Dette betyr at det trengs en avgift på minimum %2.</translation>
     </message>
     <message>
         <location line="-104"/>
-        <source>TAKE - Debug window</source>
+        <source>TAKE1 - Debug window</source>
         <translation type="unfinished"/>
     </message>
     <message>
         <location line="+25"/>
-        <source>TAKE Core</source>
+        <source>TAKE1 Core</source>
         <translation type="unfinished"/>
     </message>
     <message>
@@ -1573,7 +1573,7 @@ Dette betyr at det trengs en avgift på minimum %2.</translation>
     </message>
     <message>
         <location line="+7"/>
-        <source>Open the TAKE debug log file from the current data directory. This can take a few seconds for large log files.</source>
+        <source>Open the TAKE1 debug log file from the current data directory. This can take a few seconds for large log files.</source>
         <translation type="unfinished"/>
     </message>
     <message>
@@ -1583,7 +1583,7 @@ Dette betyr at det trengs en avgift på minimum %2.</translation>
     </message>
     <message>
         <location filename="../rpcconsole.cpp" line="-33"/>
-        <source>Welcome to the TAKE RPC console.</source>
+        <source>Welcome to the TAKE1 RPC console.</source>
         <translation type="unfinished"/>
     </message>
     <message>
@@ -1742,7 +1742,7 @@ Dette betyr at det trengs en avgift på minimum %2.</translation>
     </message>
     <message>
         <location filename="../sendcoinsdialog.cpp" line="-173"/>
-        <source>Enter a TAKE address (e.g. B8gZqgY4r2RoEdqYk3QsAqFckyf9pRHN6i)</source>
+        <source>Enter a TAKE1 address (e.g. B8gZqgY4r2RoEdqYk3QsAqFckyf9pRHN6i)</source>
         <translation type="unfinished"/>
     </message>
     <message>
@@ -1842,8 +1842,8 @@ Dette betyr at det trengs en avgift på minimum %2.</translation>
     </message>
     <message>
         <location line="+251"/>
-        <source>WARNING: Invalid TAKE address</source>
-        <translation>ADVARSEL: Ugyldig TAKE adresse</translation>
+        <source>WARNING: Invalid TAKE1 address</source>
+        <translation>ADVARSEL: Ugyldig TAKE1 adresse</translation>
     </message>
     <message>
         <location line="+13"/>
@@ -1916,7 +1916,7 @@ Dette betyr at det trengs en avgift på minimum %2.</translation>
     </message>
     <message>
         <location filename="../sendcoinsentry.cpp" line="+1"/>
-        <source>Enter a TAKE address (e.g. B8gZqgY4r2RoEdqYk3QsAqFckyf9pRHN6i)</source>
+        <source>Enter a TAKE1 address (e.g. B8gZqgY4r2RoEdqYk3QsAqFckyf9pRHN6i)</source>
         <translation type="unfinished"/>
     </message>
 </context>
@@ -1977,7 +1977,7 @@ Dette betyr at det trengs en avgift på minimum %2.</translation>
     </message>
     <message>
         <location line="+21"/>
-        <source>Sign the message to prove you own this TAKE address</source>
+        <source>Sign the message to prove you own this TAKE1 address</source>
         <translation type="unfinished"/>
     </message>
     <message>
@@ -2009,7 +2009,7 @@ Dette betyr at det trengs en avgift på minimum %2.</translation>
     </message>
     <message>
         <location line="+40"/>
-        <source>Verify the message to ensure it was signed with the specified TAKE address</source>
+        <source>Verify the message to ensure it was signed with the specified TAKE1 address</source>
         <translation type="unfinished"/>
     </message>
     <message>
@@ -2020,7 +2020,7 @@ Dette betyr at det trengs en avgift på minimum %2.</translation>
     <message>
         <location filename="../signverifymessagedialog.cpp" line="+27"/>
         <location line="+3"/>
-        <source>Enter a TAKE address (e.g. B8gZqgY4r2RoEdqYk3QsAqFckyf9pRHN6i)</source>
+        <source>Enter a TAKE1 address (e.g. B8gZqgY4r2RoEdqYk3QsAqFckyf9pRHN6i)</source>
         <translation type="unfinished"/>
     </message>
     <message>
@@ -2030,7 +2030,7 @@ Dette betyr at det trengs en avgift på minimum %2.</translation>
     </message>
     <message>
         <location line="+3"/>
-        <source>Enter TAKE signature</source>
+        <source>Enter TAKE1 signature</source>
         <translation type="unfinished"/>
     </message>
     <message>
@@ -2601,8 +2601,8 @@ Dette betyr at det trengs en avgift på minimum %2.</translation>
     <name>bitcoin-core</name>
     <message>
         <location filename="../bitcoinstrings.cpp" line="+33"/>
-        <source>TAKE version</source>
-        <translation>TAKE versjon</translation>
+        <source>TAKE1 version</source>
+        <translation>TAKE1 versjon</translation>
     </message>
     <message>
         <location line="+1"/>
@@ -2611,7 +2611,7 @@ Dette betyr at det trengs en avgift på minimum %2.</translation>
     </message>
     <message>
         <location line="+1"/>
-        <source>Send command to -server or taked</source>
+        <source>Send command to -server or take1d</source>
         <translation type="unfinished"/>
     </message>
     <message>
@@ -2631,12 +2631,12 @@ Dette betyr at det trengs en avgift på minimum %2.</translation>
     </message>
     <message>
         <location line="+2"/>
-        <source>Specify configuration file (default: take.conf)</source>
+        <source>Specify configuration file (default: take1.conf)</source>
         <translation type="unfinished"/>
     </message>
     <message>
         <location line="+1"/>
-        <source>Specify pid file (default: taked.pid)</source>
+        <source>Specify pid file (default: take1d.pid)</source>
         <translation type="unfinished"/>
     </message>
     <message>
@@ -2786,7 +2786,7 @@ Dette betyr at det trengs en avgift på minimum %2.</translation>
     </message>
     <message>
         <location line="+61"/>
-        <source>Warning: Please check that your computer&apos;s date and time are correct! If your clock is wrong TAKE will not work properly.</source>
+        <source>Warning: Please check that your computer&apos;s date and time are correct! If your clock is wrong TAKE1 will not work properly.</source>
         <translation type="unfinished"/>
     </message>
     <message>
@@ -2981,7 +2981,7 @@ rpcpassword=%s
 The username and password MUST NOT be the same.
 If the file does not exist, create it with owner-readable-only file permissions.
 It is also recommended to set alertnotify so you are notified of problems;
-for example: alertnotify=echo %%s | mail -s &quot;TAKE Alert&quot; admin@foo.com
+for example: alertnotify=echo %%s | mail -s &quot;TAKE1 Alert&quot; admin@foo.com
 </source>
         <translation type="unfinished"/>
     </message>
@@ -3107,13 +3107,13 @@ for example: alertnotify=echo %%s | mail -s &quot;TAKE Alert&quot; admin@foo.com
     </message>
     <message>
         <location line="+1"/>
-        <source>Cannot obtain a lock on data directory %s.  TAKE is probably already running.</source>
+        <source>Cannot obtain a lock on data directory %s.  TAKE1 is probably already running.</source>
         <translation type="unfinished"/>
     </message>
     <message>
         <location line="-98"/>
-        <source>TAKE</source>
-        <translation>TAKE</translation>
+        <source>TAKE1</source>
+        <translation>TAKE1</translation>
     </message>
     <message>
         <location line="+140"/>
@@ -3147,12 +3147,12 @@ for example: alertnotify=echo %%s | mail -s &quot;TAKE Alert&quot; admin@foo.com
     </message>
     <message>
         <location line="+4"/>
-        <source>Error loading wallet.dat: Wallet requires newer version of TAKE</source>
+        <source>Error loading wallet.dat: Wallet requires newer version of TAKE1</source>
         <translation type="unfinished"/>
     </message>
     <message>
         <location line="+1"/>
-        <source>Wallet needed to be rewritten: restart TAKE to complete</source>
+        <source>Wallet needed to be rewritten: restart TAKE1 to complete</source>
         <translation type="unfinished"/>
     </message>
     <message>
@@ -3222,7 +3222,7 @@ for example: alertnotify=echo %%s | mail -s &quot;TAKE Alert&quot; admin@foo.com
     </message>
     <message>
         <location line="+122"/>
-        <source>Unable to bind to %s on this computer. TAKE is probably already running.</source>
+        <source>Unable to bind to %s on this computer. TAKE1 is probably already running.</source>
         <translation type="unfinished"/>
     </message>
     <message>

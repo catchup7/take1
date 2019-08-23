@@ -7,7 +7,7 @@ cryptographic software written by Eric Young (eay@cryptsoft.com) and UPnP
 software written by Thomas Bernard.
 
 
-See readme-qt.rst for instructions on building TAKE QT, the
+See readme-qt.rst for instructions on building TAKE1 QT, the
 graphical user interface.
 
 WINDOWS BUILD NOTES
@@ -70,9 +70,9 @@ make -f Makefile.mingw
 mkdir miniupnpc
 cp *.h miniupnpc/
 
-TAKE
+TAKE1
 -------
 DOS prompt:
-cd \take\src
+cd \takeone\src
 mingw32-make -f makefile.mingw
-strip taked.exe
+strip take1d.exe

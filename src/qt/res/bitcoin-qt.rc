@@ -21,10 +21,10 @@ BEGIN
             VALUE "CompanyName",        "TAKE"
             VALUE "FileDescription",    "TAKE-Qt (OSS GUI client for TAKE)"
             VALUE "FileVersion",        VER_FILEVERSION_STR
-            VALUE "InternalName",       "take-qt"
+            VALUE "InternalName",       "take1-qt"
             VALUE "LegalCopyright",     "2009-2014 The Bitcoin developers, 2012-2014 The NovaCoin & PPCoin developers, 2018 The TAKE developers"
             VALUE "LegalTrademarks1",   "Distributed under the MIT/X11 software license, see the accompanying file COPYING or http://www.opensource.org/licenses/mit-license.php."
-            VALUE "OriginalFilename",   "take-qt.exe"
+            VALUE "OriginalFilename",   "take1-qt.exe"
             VALUE "ProductName",        "TAKE-Qt"
             VALUE "ProductVersion",     VER_PRODUCTVERSION_STR
         END
