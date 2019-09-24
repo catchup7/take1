@@ -24,6 +24,12 @@ Libraries you need to download separately and build:
  Boost         1.58.0
  miniupnpc     1.9.20140610
 
+Their licenses:
+OpenSSL        Old BSD license with the problematic advertising requirement
+Berkeley DB    New BSD license with additional requirement that linked software must be free open source
+Boost          MIT-like license
+miniupnpc      New (3-clause) BSD license
+
 All of the commands should be executed in Terminal.app.. it's in
 /Applications/Utilities
 
