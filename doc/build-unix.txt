@@ -66,6 +66,7 @@ sudo apt-get install libssl-dev
 sudo apt-get install libdb++-dev
 sudo apt-get install libboost-all-dev
 sudo apt-get install libqrencode-dev
+sudo apt-get install libminiupnpc-dev
 
 If using Boost 1.37, append -mt to the boost libraries in the makefile.
 
@@ -87,20 +88,14 @@ The release is built with GCC and then "strip take1d" to strip the debug
 symbols, which reduces the executable size by about 90%.
 
 
-miniupnpc
----------
-tar -xzvf miniupnpc-1.6.tar.gz
-cd miniupnpc-1.6
-make
-sudo su
-make install
-
-
 Berkeley DB
 -----------
-You need Berkeley DB. If you have to build Berkeley DB yourself:
+You need Berkeley DB. This can be downloaded from http://download.oracle.com/otn/berkeley-db/db-18.1.25.tar.gz (login required). To build Berkeley DB:
+tar -xvf db-18.1.25.tar.gz
+cd db-18.1.25/build_unix
 ../dist/configure --enable-cxx
 make
+make install
 
 
 Boost
